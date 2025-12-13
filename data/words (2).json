@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "w_11923",
+    "word": "ability",
+    "meaning": "יכולת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11924",
+    "word": "able",
+    "meaning": "יכול, מסוגל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11925",
+    "word": "accept",
+    "meaning": "לקבל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11926",
+    "word": "acceptable",
+    "meaning": "מקובל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11927",
+    "word": "acceptance",
+    "meaning": "הסכמה",
+    "choice": "maybe",
+    "choice_mark": "?",
+    "knowing_grade": 5
+  },
+  {
+    "id": "w_11928",
+    "word": "accident",
+    "meaning": "תאונה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11929",
+    "word": "achieve",
+    "meaning": "להשיג",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11930",
+    "word": "activate",
+    "meaning": "להפעיל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11931",
+    "word": "active",
+    "meaning": "פעיל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11932",
+    "word": "actor",
+    "meaning": "שחקן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11933",
+    "word": "actual",
+    "meaning": "ממשי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11934",
+    "word": "actually",
+    "meaning": "למעשה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11935",
+    "word": "addition",
+    "meaning": "תוספת, הוספה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11936",
+    "word": "address",
+    "meaning": "לפנות, לטפל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11937",
+    "word": "address",
+    "meaning": "כתובת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11938",
+    "word": "adjust",
+    "meaning": "להתרגל",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11939",
+    "word": "adjust",
+    "meaning": "לכוונן",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11940",
+    "word": "afford",
+    "meaning": "יכל לעמוד בהוצאות",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11941",
+    "word": "afraid",
+    "meaning": "מפחד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11942",
+    "word": "agree",
+    "meaning": "להסכים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11943",
+    "word": "agreement",
+    "meaning": "הסכם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11944",
+    "word": "aim",
+    "meaning": "לכוון, מטרה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11945",
+    "word": "alarm",
+    "meaning": "דאגה, להדאיג",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11946",
+    "word": "alarm",
+    "meaning": "אזעקה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11947",
+    "word": "alive",
+    "meaning": "חי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11948",
+    "word": "almost",
+    "meaning": "כמעט",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11949",
+    "word": "alone",
+    "meaning": "לבד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11950",
+    "word": "alternate",
+    "meaning": "התחלף, עבר מדבר אחד לשני וחזרה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11951",
+    "word": "alternate",
+    "meaning": "חלופי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11952",
+    "word": "altogether",
+    "meaning": "לגמרי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11953",
+    "word": "ambassador",
+    "meaning": "שגריר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11954",
+    "word": "ambiguous",
+    "meaning": "דו משמעי, לא לגמרי ברור",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11955",
+    "word": "amount",
+    "meaning": "כמות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11956",
+    "word": "anger",
+    "meaning": "כעס, להכעיס",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11957",
+    "word": "angry",
+    "meaning": "כועס",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11958",
+    "word": "animal",
+    "meaning": "חיה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11959",
+    "word": "another",
+    "meaning": "נוסף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11960",
+    "word": "another",
+    "meaning": "אחר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11961",
+    "word": "answer",
+    "meaning": "תשובה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11962",
+    "word": "apart",
+    "meaning": "בנפרד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11963",
+    "word": "apology",
+    "meaning": "התנצלות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11964",
+    "word": "appear",
+    "meaning": "להופיע",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11965",
+    "word": "appear",
+    "meaning": "נראה ש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11966",
+    "word": "appearance",
+    "meaning": "מראה, הופעה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11967",
+    "word": "appropriate",
+    "meaning": "מתאים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11968",
+    "word": "approve",
+    "meaning": "לאשר",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11969",
+    "word": "architect",
+    "meaning": "ארכיטקט",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11970",
+    "word": "architecture",
+    "meaning": "אדריכלות, ארכיטקטורה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11971",
+    "word": "area",
+    "meaning": "אזור, תחום",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11972",
+    "word": "argue",
+    "meaning": "להתווכח",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11973",
+    "word": "argument",
+    "meaning": "ויכוח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11974",
+    "word": "aristocrat",
+    "meaning": "אציל, אריסטוקרט",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11975",
+    "word": "arm",
+    "meaning": "לחמש",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11976",
+    "word": "arm",
+    "meaning": "זרוע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11977",
+    "word": "army",
+    "meaning": "צבא",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11978",
+    "word": "around",
+    "meaning": "בערך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11979",
+    "word": "arrange",
+    "meaning": "לסדר",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11980",
+    "word": "arrest",
+    "meaning": "מעצר, לעצור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11981",
+    "word": "arrive",
+    "meaning": "להגיע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11982",
+    "word": "art",
+    "meaning": "אמנות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11983",
+    "word": "article",
+    "meaning": "פריט",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11984",
+    "word": "article",
+    "meaning": "מאמר",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11985",
+    "word": "articulate",
+    "meaning": "רהוט",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11986",
+    "word": "articulate",
+    "meaning": "להביע",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11987",
+    "word": "artist",
+    "meaning": "אמן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11988",
+    "word": "artistic",
+    "meaning": "אמנותי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11989",
+    "word": "as far as",
+    "meaning": "לגבי, בכל הנוגע ל-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11990",
+    "word": "as proof of",
+    "meaning": "כהוכחה ל-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11991",
+    "word": "ask",
+    "meaning": "לשאול",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11992",
+    "word": "asked for",
+    "meaning": "ביקש",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11993",
+    "word": "associate",
+    "meaning": "לקשר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11994",
+    "word": "association",
+    "meaning": "אסוציאציה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11995",
+    "word": "association",
+    "meaning": "איגוד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11996",
+    "word": "assume",
+    "meaning": "להניח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11997",
+    "word": "assumption",
+    "meaning": "הנחה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11998",
+    "word": "at least",
+    "meaning": "לפחות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11999",
+    "word": "athlete",
+    "meaning": "ספורטאי, אתלט",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12000",
+    "word": "attach",
+    "meaning": "לחבר, ליחס",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12001",
+    "word": "attack",
+    "meaning": "לתקוף, מתקפה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12002",
+    "word": "attempt",
+    "meaning": "ניסיון",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12003",
+    "word": "attitude",
+    "meaning": "גישה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12004",
+    "word": "attract",
+    "meaning": "למשוך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12005",
+    "word": "attraction",
+    "meaning": "משיכה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12006",
+    "word": "attractive",
+    "meaning": "נאה, מושך",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12007",
+    "word": "audience",
+    "meaning": "קהל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12008",
+    "word": "authentic",
+    "meaning": "מקורי, אותנטי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12009",
+    "word": "availability",
+    "meaning": "זמינות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12010",
+    "word": "available",
+    "meaning": "זמין",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12011",
+    "word": "average",
+    "meaning": "ממוצע, רגיל",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12012",
+    "word": "avoid",
+    "meaning": "להתחמק, להימנע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12013",
+    "word": "awake",
+    "meaning": "ער, להתעורר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12014",
+    "word": "bacteria",
+    "meaning": "חיידקים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12015",
+    "word": "badly",
+    "meaning": "נואשות, קשות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12016",
+    "word": "baker",
+    "meaning": "אופה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12017",
+    "word": "band",
+    "meaning": "להקה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12018",
+    "word": "band",
+    "meaning": "לחבוש, תחבושת, רצועה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12019",
+    "word": "barely",
+    "meaning": "בקושי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12020",
+    "word": "base",
+    "meaning": "בסיס",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12021",
+    "word": "bat",
+    "meaning": "עטלף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12022",
+    "word": "bat",
+    "meaning": "מחבט",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12023",
+    "word": "bath",
+    "meaning": "אמבטיה, להתרחץ",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12024",
+    "word": "battle",
+    "meaning": "מאבק, להיאבק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12025",
+    "word": "beach",
+    "meaning": "חוף ים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12026",
+    "word": "bear",
+    "meaning": "דוב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12027",
+    "word": "bear",
+    "meaning": "לסבול, לשאת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12028",
+    "word": "beauty",
+    "meaning": "יופי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12029",
+    "word": "bedroom",
+    "meaning": "חדר שינה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12030",
+    "word": "begin/an/un",
+    "meaning": "להתחיל / התחיל / התחיל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12031",
+    "word": "beginning",
+    "meaning": "התחלה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12032",
+    "word": "belong",
+    "meaning": "שייך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12033",
+    "word": "best",
+    "meaning": "הכי טוב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12034",
+    "word": "best-seller",
+    "meaning": "רב-מכר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12035",
+    "word": "better",
+    "meaning": "טוב יותר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12036",
+    "word": "bicycle",
+    "meaning": "אופניים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12037",
+    "word": "birth",
+    "meaning": "לידה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12038",
+    "word": "bite",
+    "meaning": "לנשוך, נשיכה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12039",
+    "word": "bizarre",
+    "meaning": "מוזר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12040",
+    "word": "blind",
+    "meaning": "עיוור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12041",
+    "word": "block",
+    "meaning": "לבנה, גוש, חלק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12042",
+    "word": "block",
+    "meaning": "חסימה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12043",
+    "word": "blood",
+    "meaning": "דם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12044",
+    "word": "blood vessel",
+    "meaning": "כלי דם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12045",
+    "word": "blow, blew",
+    "meaning": "לנשוף, נשף",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12046",
+    "word": "blow, blew",
+    "meaning": "לפוצץ, פוצץ",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12047",
+    "word": "boat",
+    "meaning": "סירה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12048",
+    "word": "body",
+    "meaning": "גוויה, גוף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12049",
+    "word": "bone",
+    "meaning": "עצם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12050",
+    "word": "border",
+    "meaning": "גבול",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12051",
+    "word": "boring",
+    "meaning": "משעמם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12052",
+    "word": "bottle",
+    "meaning": "בקבוק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12053",
+    "word": "bottom",
+    "meaning": "תחתית",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12054",
+    "word": "bottom",
+    "meaning": "ישבן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12055",
+    "word": "bought",
+    "meaning": "קנה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12056",
+    "word": "brain",
+    "meaning": "מוח, שכל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12057",
+    "word": "brainwash",
+    "meaning": "לשטוף את המח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12058",
+    "word": "brave",
+    "meaning": "אמיץ",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12059",
+    "word": "bread",
+    "meaning": "לחם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12060",
+    "word": "break",
+    "meaning": "לשבור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12061",
+    "word": "breathe",
+    "meaning": "לנשום",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12062",
+    "word": "bridge",
+    "meaning": "גשר, לגשר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12063",
+    "word": "broad",
+    "meaning": "נרחב",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12064",
+    "word": "budget",
+    "meaning": "תקציב, לתקצב",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12065",
+    "word": "build",
+    "meaning": "לבנות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12066",
+    "word": "build",
+    "meaning": "מבנה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12067",
+    "word": "building",
+    "meaning": "בניין",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12068",
+    "word": "built",
+    "meaning": "לבנות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12069",
+    "word": "bullet",
+    "meaning": "קליע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12070",
+    "word": "by",
+    "meaning": "באמצעות, על-ידי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12071",
+    "word": "call",
+    "meaning": "לקרוא, להתקשר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12072",
+    "word": "camera",
+    "meaning": "מצלמה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12073",
+    "word": "care",
+    "meaning": "לחבב",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12074",
+    "word": "care",
+    "meaning": "לדאוג, לטפל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12075",
+    "word": "carefully",
+    "meaning": "בזהירות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12076",
+    "word": "careless",
+    "meaning": "לא זהיר, רשלני",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12077",
+    "word": "carry",
+    "meaning": "לסחוב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12078",
+    "word": "catalogue",
+    "meaning": "קטלוג, רשימת פריטים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12079",
+    "word": "catch, caught",
+    "meaning": "לתפוס, תפס",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12080",
+    "word": "cause",
+    "meaning": "מטרה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12081",
+    "word": "cause",
+    "meaning": "גורם, סיבה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12082",
+    "word": "cell",
+    "meaning": "תא",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12083",
+    "word": "center",
+    "meaning": "מרכז",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12084",
+    "word": "central",
+    "meaning": "מרכזי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12085",
+    "word": "challenge",
+    "meaning": "לאתגר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12086",
+    "word": "challenge",
+    "meaning": "אתגר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12087",
+    "word": "chance",
+    "meaning": "סיכוי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12088",
+    "word": "change",
+    "meaning": "עודף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12089",
+    "word": "change",
+    "meaning": "שינוי, לשנות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12090",
+    "word": "characterize",
+    "meaning": "לאפיין",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12091",
+    "word": "cheap",
+    "meaning": "זול",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12092",
+    "word": "check",
+    "meaning": "לבדוק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12093",
+    "word": "child",
+    "meaning": "ילד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12094",
+    "word": "childhood",
+    "meaning": "ילדות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12095",
+    "word": "children",
+    "meaning": "ילדים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12096",
+    "word": "circle",
+    "meaning": "להקיף בעיגול",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12097",
+    "word": "circle",
+    "meaning": "מעגל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12098",
+    "word": "clean",
+    "meaning": "נקי, לנקות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12099",
+    "word": "clever",
+    "meaning": "פיקח",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12100",
+    "word": "climb",
+    "meaning": "לטפס",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12101",
+    "word": "clock",
+    "meaning": "שעון",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12102",
+    "word": "close",
+    "meaning": "סגור, לסגור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12103",
+    "word": "cloth",
+    "meaning": "בגד, בד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12104",
+    "word": "coach",
+    "meaning": "מאמן, לאמן, להדריך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12105",
+    "word": "coach",
+    "meaning": "קרון נוסעים, כרכרה, מחלקת תיירים (במטוס)",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12106",
+    "word": "code",
+    "meaning": "קוד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12107",
+    "word": "coexist",
+    "meaning": "להתקיים בשותפות",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12108",
+    "word": "coin",
+    "meaning": "מטבע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12109",
+    "word": "cold",
+    "meaning": "קר, התקררות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12110",
+    "word": "colonial",
+    "meaning": "קולוניאלי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12111",
+    "word": "color",
+    "meaning": "לצבוע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12112",
+    "word": "color",
+    "meaning": "צבע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12113",
+    "word": "complain",
+    "meaning": "להתלונן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12114",
+    "word": "complete",
+    "meaning": "כולל",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12115",
+    "word": "complete",
+    "meaning": "להשלים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12116",
+    "word": "consist",
+    "meaning": "מורכב מ-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12117",
+    "word": "contact",
+    "meaning": "ליצור קשר, מגע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12118",
+    "word": "continue",
+    "meaning": "להמשיך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12119",
+    "word": "continuity",
+    "meaning": "המשכיות, רצף הגיוני",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12120",
+    "word": "continuous",
+    "meaning": "מתמשך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12121",
+    "word": "control",
+    "meaning": "לוח בקרה, פיקוח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12122",
+    "word": "control",
+    "meaning": "שליטה, לשלוט",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12123",
+    "word": "cool",
+    "meaning": "לצנן, צונן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12124",
+    "word": "copies",
+    "meaning": "עותקים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12125",
+    "word": "copy",
+    "meaning": "להעתיק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12126",
+    "word": "corner",
+    "meaning": "פינה, לדחוק לפינה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12127",
+    "word": "correct",
+    "meaning": "לתקן",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12128",
+    "word": "correct",
+    "meaning": "נכון",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12129",
+    "word": "cost",
+    "meaning": "מחיר, עלות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12130",
+    "word": "costly",
+    "meaning": "יקר",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12131",
+    "word": "count",
+    "meaning": "לספור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12132",
+    "word": "count",
+    "meaning": "רוזן",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12133",
+    "word": "country",
+    "meaning": "ארץ",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12134",
+    "word": "country",
+    "meaning": "כפר, אזור",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12135",
+    "word": "cover",
+    "meaning": "כיסוי, מכסה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12136",
+    "word": "cow",
+    "meaning": "פרה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12137",
+    "word": "culture",
+    "meaning": "תרבות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12138",
+    "word": "dance",
+    "meaning": "לרקוד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12139",
+    "word": "danger",
+    "meaning": "סכנה, לסכן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12140",
+    "word": "dangerous",
+    "meaning": "מסוכן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12141",
+    "word": "daughter",
+    "meaning": "בת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12142",
+    "word": "death",
+    "meaning": "מוות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12143",
+    "word": "deep",
+    "meaning": "עמוק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12144",
+    "word": "deeply",
+    "meaning": "מאוד, במידה רבה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12145",
+    "word": "define",
+    "meaning": "להגדיר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12146",
+    "word": "definite",
+    "meaning": "מוחלט",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12147",
+    "word": "delete",
+    "meaning": "למחוק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12148",
+    "word": "desert",
+    "meaning": "מדבר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12149",
+    "word": "desert",
+    "meaning": "לנטוש",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12150",
+    "word": "devastate",
+    "meaning": "להחריב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12151",
+    "word": "die",
+    "meaning": "מת, למות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12152",
+    "word": "die (dice)",
+    "meaning": "קובייה (קוביות)",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12153",
+    "word": "difficult",
+    "meaning": "קשה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12154",
+    "word": "dirty",
+    "meaning": "מלוכלך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12155",
+    "word": "diverse",
+    "meaning": "מגוון",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12156",
+    "word": "done",
+    "meaning": "גמור, עשוי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12157",
+    "word": "dream",
+    "meaning": "חלום, לחלום",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12158",
+    "word": "drink",
+    "meaning": "לשתות, משקה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12159",
+    "word": "drug",
+    "meaning": "סם, תרופה, לסמם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12160",
+    "word": "due",
+    "meaning": "צריך להיעשות, זמנו הגיע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12161",
+    "word": "due",
+    "meaning": "בשל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12162",
+    "word": "early",
+    "meaning": "מוקדם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12163",
+    "word": "earth",
+    "meaning": "אדמה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12164",
+    "word": "Earth",
+    "meaning": "כדור הארץ",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12165",
+    "word": "earthquake",
+    "meaning": "רעידת אדמה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12166",
+    "word": "educate",
+    "meaning": "לחנך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12167",
+    "word": "education",
+    "meaning": "השכלה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12168",
+    "word": "empty",
+    "meaning": "ריק, לרוקן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12169",
+    "word": "enemy",
+    "meaning": "אויב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12170",
+    "word": "energy",
+    "meaning": "אנרגיה, כוח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12171",
+    "word": "enjoy",
+    "meaning": "ליהנות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12172",
+    "word": "enjoyable",
+    "meaning": "מהנה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12173",
+    "word": "enter",
+    "meaning": "נכנס",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12174",
+    "word": "error",
+    "meaning": "שגיאה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12175",
+    "word": "escape",
+    "meaning": "לברוח, בריחה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12176",
+    "word": "evening",
+    "meaning": "ערב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12177",
+    "word": "event",
+    "meaning": "אירוע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12178",
+    "word": "exact",
+    "meaning": "מדויק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12179",
+    "word": "exactly",
+    "meaning": "בדיוק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12180",
+    "word": "example",
+    "meaning": "דוגמה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12181",
+    "word": "excessive",
+    "meaning": "יתר, מוגזם",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12182",
+    "word": "expert",
+    "meaning": "מומחה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12183",
+    "word": "extinct",
+    "meaning": "נכחד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12184",
+    "word": "fact",
+    "meaning": "עובדה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12185",
+    "word": "false",
+    "meaning": "שקר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12186",
+    "word": "farm",
+    "meaning": "חווה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12187",
+    "word": "farmer",
+    "meaning": "חוואי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12188",
+    "word": "father",
+    "meaning": "אבא",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12189",
+    "word": "fear",
+    "meaning": "פחד, לפחד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12190",
+    "word": "feel",
+    "meaning": "להרגיש",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12191",
+    "word": "feeling",
+    "meaning": "הרגשה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12192",
+    "word": "few",
+    "meaning": "מעט",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12193",
+    "word": "field",
+    "meaning": "תחום, שדה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12194",
+    "word": "find",
+    "meaning": "למצוא",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12195",
+    "word": "findings",
+    "meaning": "ממצאים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12196",
+    "word": "finger",
+    "meaning": "אצבע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12197",
+    "word": "fire",
+    "meaning": "לפטר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12198",
+    "word": "fire",
+    "meaning": "אש, להצית",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12199",
+    "word": "fire",
+    "meaning": "לירות",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12200",
+    "word": "fix",
+    "meaning": "לתקן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12201",
+    "word": "flower",
+    "meaning": "פרח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12202",
+    "word": "forget",
+    "meaning": "לשכוח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12203",
+    "word": "friend",
+    "meaning": "חבר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12204",
+    "word": "friendly",
+    "meaning": "ידידותי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12205",
+    "word": "friendship",
+    "meaning": "חברות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12206",
+    "word": "front",
+    "meaning": "חזית, להתעמת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12207",
+    "word": "full",
+    "meaning": "מלא, למלא",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12208",
+    "word": "gain",
+    "meaning": "להרוויח, להוסיף",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12209",
+    "word": "glad",
+    "meaning": "שמח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12210",
+    "word": "gradual",
+    "meaning": "הדרגתי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12211",
+    "word": "great",
+    "meaning": "גדול, מעולה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12212",
+    "word": "half",
+    "meaning": "חצי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12213",
+    "word": "hand",
+    "meaning": "יד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12214",
+    "word": "hand",
+    "meaning": "למסור",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12215",
+    "word": "hear",
+    "meaning": "לשמוע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12216",
+    "word": "hearsay",
+    "meaning": "שמועה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12217",
+    "word": "heat",
+    "meaning": "חום, לחמם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12218",
+    "word": "hero",
+    "meaning": "גיבור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12219",
+    "word": "horse",
+    "meaning": "סוס",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12220",
+    "word": "hot",
+    "meaning": "חם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12221",
+    "word": "hot",
+    "meaning": "חריף",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12222",
+    "word": "house",
+    "meaning": "לשכן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12223",
+    "word": "house",
+    "meaning": "בית",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12224",
+    "word": "impartial",
+    "meaning": "אוביקטיבי, ללא צד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12225",
+    "word": "inconsistent",
+    "meaning": "לא עקבי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12226",
+    "word": "insert",
+    "meaning": "להכניס",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12227",
+    "word": "jump",
+    "meaning": "לקפוץ",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12228",
+    "word": "just",
+    "meaning": "מדויק, אמיתי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12229",
+    "word": "just",
+    "meaning": "צודק, הוגן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12230",
+    "word": "just",
+    "meaning": "רק, בלבד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12231",
+    "word": "kill",
+    "meaning": "להרוג, לחסל, הרג",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12232",
+    "word": "king",
+    "meaning": "מלך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12233",
+    "word": "kingdom",
+    "meaning": "ממלכה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12234",
+    "word": "kitchen",
+    "meaning": "מטבח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12235",
+    "word": "last",
+    "meaning": "המשיך, החזיק מעמד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12236",
+    "word": "late",
+    "meaning": "מאוחר, לאחר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12237",
+    "word": "light",
+    "meaning": "קל",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12238",
+    "word": "light",
+    "meaning": "אור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12239",
+    "word": "like",
+    "meaning": "לחבב, להעדיף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12240",
+    "word": "list",
+    "meaning": "רשימה, להכין רשימה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12241",
+    "word": "lock",
+    "meaning": "מנעול, לנעול",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12242",
+    "word": "logic",
+    "meaning": "הגיון",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12243",
+    "word": "main",
+    "meaning": "עיקרי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12244",
+    "word": "map",
+    "meaning": "מפה, למפות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12245",
+    "word": "mark",
+    "meaning": "לסמן",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12246",
+    "word": "maybe",
+    "meaning": "אולי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12247",
+    "word": "meeting",
+    "meaning": "פגישה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12248",
+    "word": "member",
+    "meaning": "חבר (בקבוצה מסוימת)",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12249",
+    "word": "milk",
+    "meaning": "חלב, לחלוב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12250",
+    "word": "mistake",
+    "meaning": "טעות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12251",
+    "word": "mistaken",
+    "meaning": "שגוי, לטעות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12252",
+    "word": "money",
+    "meaning": "כסף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12253",
+    "word": "move",
+    "meaning": "לזוז, לעבור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12254",
+    "word": "movement",
+    "meaning": "תנועה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12255",
+    "word": "must",
+    "meaning": "חייב, חובה, הכרח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12256",
+    "word": "number",
+    "meaning": "מספר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12257",
+    "word": "once",
+    "meaning": "פעם אחת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12258",
+    "word": "open",
+    "meaning": "לפתוח, פתוח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12259",
+    "word": "over",
+    "meaning": "מחדש, שוב",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12260",
+    "word": "paragraph",
+    "meaning": "פִסקה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12261",
+    "word": "pay",
+    "meaning": "לשלם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12262",
+    "word": "peace",
+    "meaning": "שלום",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12263",
+    "word": "peaceful",
+    "meaning": "שָׁלֵו, שקט",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12264",
+    "word": "pilot",
+    "meaning": "טייס",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12265",
+    "word": "place",
+    "meaning": "מקום, למקם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12266",
+    "word": "plan",
+    "meaning": "לתכנן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12267",
+    "word": "plan",
+    "meaning": "תכנית",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12268",
+    "word": "plane",
+    "meaning": "מטוס",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12269",
+    "word": "plane",
+    "meaning": "מישור",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12270",
+    "word": "president",
+    "meaning": "נשיא",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12271",
+    "word": "price",
+    "meaning": "מחיר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12272",
+    "word": "primary",
+    "meaning": "יסודי, עיקרי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12273",
+    "word": "problem",
+    "meaning": "בעיה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12274",
+    "word": "program",
+    "meaning": "תכנית",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12275",
+    "word": "program",
+    "meaning": "תכניה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12276",
+    "word": "program",
+    "meaning": "לתכנת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12277",
+    "word": "queen",
+    "meaning": "מלכה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12278",
+    "word": "question",
+    "meaning": "להטיל ספק",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12279",
+    "word": "question",
+    "meaning": "שאלה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12280",
+    "word": "quick",
+    "meaning": "זריז",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12281",
+    "word": "rates",
+    "meaning": "שיעור , היקף, תעריף",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12282",
+    "word": "rather",
+    "meaning": "למדי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12283",
+    "word": "react",
+    "meaning": "להגיב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12284",
+    "word": "region",
+    "meaning": "מחוז, אזור",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12285",
+    "word": "register",
+    "meaning": "להירשם",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12286",
+    "word": "registration",
+    "meaning": "הרשמה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12287",
+    "word": "reject",
+    "meaning": "לדחות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12288",
+    "word": "rest",
+    "meaning": "מנוחה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12289",
+    "word": "rest",
+    "meaning": "יתר, שאר",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12290",
+    "word": "rich",
+    "meaning": "עשיר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12291",
+    "word": "right",
+    "meaning": "זכות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12292",
+    "word": "risk",
+    "meaning": "סיכון, לסכן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12293",
+    "word": "river",
+    "meaning": "נהר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12294",
+    "word": "road",
+    "meaning": "דרך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12295",
+    "word": "safe",
+    "meaning": "בטוח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12296",
+    "word": "safety",
+    "meaning": "בטיחות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12297",
+    "word": "save",
+    "meaning": "לשמור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12298",
+    "word": "scare",
+    "meaning": "פחד, להפחיד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12299",
+    "word": "school",
+    "meaning": "בית-ספר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12300",
+    "word": "search",
+    "meaning": "חיפוש, לחפש",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12301",
+    "word": "select",
+    "meaning": "לבחור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12302",
+    "word": "sell",
+    "meaning": "למכור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12303",
+    "word": "send",
+    "meaning": "לשלוח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12304",
+    "word": "several",
+    "meaning": "אחדים, כמה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12305",
+    "word": "short",
+    "meaning": "קצר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12306",
+    "word": "shortage",
+    "meaning": "מחסור",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12307",
+    "word": "side",
+    "meaning": "צד, לצודד, לתמוך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12308",
+    "word": "sleep",
+    "meaning": "שינה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12309",
+    "word": "sleep",
+    "meaning": "לישון",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12310",
+    "word": "slow",
+    "meaning": "איטי, לאט",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12311",
+    "word": "slow down",
+    "meaning": "להאט",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12312",
+    "word": "so",
+    "meaning": "כל-כך, מאוד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12313",
+    "word": "space",
+    "meaning": "חלל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12314",
+    "word": "space",
+    "meaning": "רווח",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12315",
+    "word": "speed",
+    "meaning": "מהירות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12316",
+    "word": "start",
+    "meaning": "להתחיל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12317",
+    "word": "still",
+    "meaning": "נייח, דומם, שקט",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12318",
+    "word": "stone",
+    "meaning": "אבן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12319",
+    "word": "strong",
+    "meaning": "חזק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12320",
+    "word": "stronghold",
+    "meaning": "מאחז",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12321",
+    "word": "system",
+    "meaning": "מערכת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12322",
+    "word": "system",
+    "meaning": "שיטה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12323",
+    "word": "target",
+    "meaning": "מטרה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12324",
+    "word": "teach, taught",
+    "meaning": "ללמד, לימד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12325",
+    "word": "think, thought",
+    "meaning": "לחשוב, חשב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12326",
+    "word": "time",
+    "meaning": "זמן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12327",
+    "word": "totally",
+    "meaning": "לחלוטין",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12328",
+    "word": "town",
+    "meaning": "עיר, עיירה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12329",
+    "word": "understand",
+    "meaning": "להבין",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12330",
+    "word": "unusual",
+    "meaning": "בלתי רגיל, יוצא דופן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12331",
+    "word": "use",
+    "meaning": "תועלת, תכלית",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12332",
+    "word": "use",
+    "meaning": "לנצל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12333",
+    "word": "use",
+    "meaning": "להשתמש",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12334",
+    "word": "useful",
+    "meaning": "שימושי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12335",
+    "word": "useless",
+    "meaning": "חסר תועלת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12336",
+    "word": "usual",
+    "meaning": "רגיל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12337",
+    "word": "valuable",
+    "meaning": "יקר ערך",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_12338",
+    "word": "value",
+    "meaning": "ערך, להעריך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12339",
+    "word": "view",
+    "meaning": "לראות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12340",
+    "word": "view",
+    "meaning": "נוף, שדה ראיה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12341",
+    "word": "viewer",
+    "meaning": "צופה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12342",
+    "word": "visit",
+    "meaning": "לבקר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12343",
+    "word": "visitor",
+    "meaning": "אורח, מבקר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12344",
+    "word": "voice",
+    "meaning": "קול, להשמיע קול",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12345",
+    "word": "wait",
+    "meaning": "להמתין, המתנה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12346",
+    "word": "way",
+    "meaning": "דרך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_12347",
+    "word": "weather",
+    "meaning": "מזג אוויר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  }
+]

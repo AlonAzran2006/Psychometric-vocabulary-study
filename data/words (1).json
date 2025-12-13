@@ -1,0 +1,2418 @@
+[
+  {
+    "id": "w_11621",
+    "word": "10th - tenth",
+    "meaning": "עשירי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11622",
+    "word": "1st - first",
+    "meaning": "ראשון",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11623",
+    "word": "2nd - second",
+    "meaning": "שני",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11624",
+    "word": "3rd - third",
+    "meaning": "שלישי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11625",
+    "word": "4th - fourth",
+    "meaning": "רביעי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11626",
+    "word": "5th - fifth",
+    "meaning": "חמישי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11627",
+    "word": "6th - sixth",
+    "meaning": "שישי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11628",
+    "word": "7th - seventh",
+    "meaning": "שביעי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11629",
+    "word": "8th - eighth",
+    "meaning": "שמיני",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11630",
+    "word": "9th - ninth",
+    "meaning": "תשיעי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11631",
+    "word": "about",
+    "meaning": "ליד, בערך",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11632",
+    "word": "about",
+    "meaning": "אודות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11633",
+    "word": "above",
+    "meaning": "מעל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11634",
+    "word": "above all",
+    "meaning": "מעל לכל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11635",
+    "word": "absolutely",
+    "meaning": "לחלוטין",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11636",
+    "word": "according",
+    "meaning": "לפי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11637",
+    "word": "accordingly",
+    "meaning": "בהתאם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11638",
+    "word": "across",
+    "meaning": "בצד השני, לרוחב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11639",
+    "word": "additionally",
+    "meaning": "בנוסף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11640",
+    "word": "adjacent to",
+    "meaning": "ליד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11641",
+    "word": "after",
+    "meaning": "אחרי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11642",
+    "word": "after all",
+    "meaning": "אחרי הכל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11643",
+    "word": "after all",
+    "meaning": "אחרי הכל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11644",
+    "word": "afterwards",
+    "meaning": "לאחר מכן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11645",
+    "word": "again",
+    "meaning": "שוב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11646",
+    "word": "against",
+    "meaning": "כנגד, ממול",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11647",
+    "word": "ahead of",
+    "meaning": "לפני, לפנים",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11648",
+    "word": "albeit",
+    "meaning": "אף על פי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11649",
+    "word": "all in all",
+    "meaning": "בסך הכל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11650",
+    "word": "along",
+    "meaning": "לאורך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11651",
+    "word": "along with",
+    "meaning": "יחד עם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11652",
+    "word": "alongside",
+    "meaning": "לצד, במקביל",
+    "choice": "maybe",
+    "choice_mark": "?",
+    "knowing_grade": 5
+  },
+  {
+    "id": "w_11653",
+    "word": "also",
+    "meaning": "גם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11654",
+    "word": "although",
+    "meaning": "למרות ש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11655",
+    "word": "altogether",
+    "meaning": "בסך הכל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11656",
+    "word": "always",
+    "meaning": "תמיד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11657",
+    "word": "amid",
+    "meaning": "בקרב, בין",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11658",
+    "word": "among",
+    "meaning": "בקרב, בין",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11659",
+    "word": "and",
+    "meaning": "ו-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11660",
+    "word": "around",
+    "meaning": "מסביב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11661",
+    "word": "as",
+    "meaning": "כאשר, כש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11662",
+    "word": "as",
+    "meaning": "כמו",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11663",
+    "word": "as a result",
+    "meaning": "כתוצאה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11664",
+    "word": "as if",
+    "meaning": "כאילו",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11665",
+    "word": "as long as",
+    "meaning": "כל עוד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11666",
+    "word": "as soon as",
+    "meaning": "כאשר, ברגע ש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11667",
+    "word": "as well as",
+    "meaning": "כמו גם",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11668",
+    "word": "aside from",
+    "meaning": "חוץ מ-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11669",
+    "word": "at",
+    "meaning": "אצל, ב-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11670",
+    "word": "at first",
+    "meaning": "בהתחלה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11671",
+    "word": "at last",
+    "meaning": "סוף סוף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11672",
+    "word": "backward",
+    "meaning": "לאחור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11673",
+    "word": "based on",
+    "meaning": "מבוסס על",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11674",
+    "word": "because",
+    "meaning": "בגלל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11675",
+    "word": "because of",
+    "meaning": "בגלל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11676",
+    "word": "before",
+    "meaning": "לפני",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11677",
+    "word": "before",
+    "meaning": "לפני, מול",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11678",
+    "word": "behind",
+    "meaning": "מאחורי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11679",
+    "word": "being that",
+    "meaning": "מכיוון ש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11680",
+    "word": "below",
+    "meaning": "מתחת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11681",
+    "word": "beneath",
+    "meaning": "מתחת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11682",
+    "word": "beside",
+    "meaning": "ליד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11683",
+    "word": "besides",
+    "meaning": "בכל מקרה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11684",
+    "word": "besides",
+    "meaning": "בנוסף על",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11685",
+    "word": "besides",
+    "meaning": "מלבד, חוץ מ-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11686",
+    "word": "between",
+    "meaning": "בין",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11687",
+    "word": "beyond",
+    "meaning": "מעבר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11688",
+    "word": "both",
+    "meaning": "שניהם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11689",
+    "word": "both... and…",
+    "meaning": "גם... וגם...",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11690",
+    "word": "but",
+    "meaning": "אך, אבל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11691",
+    "word": "but",
+    "meaning": "מלבד, חוץ מ-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11692",
+    "word": "by",
+    "meaning": "ליד, בסמוך ל-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11693",
+    "word": "by",
+    "meaning": "עד, לא יאוחר מ-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11694",
+    "word": "certainly",
+    "meaning": "בהחלט, בוודאי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11695",
+    "word": "chiefly",
+    "meaning": "בעיקר",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11696",
+    "word": "close",
+    "meaning": "קרוב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11697",
+    "word": "comparatively",
+    "meaning": "באופן יחסי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11698",
+    "word": "consequently",
+    "meaning": "כתוצאה מכך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11699",
+    "word": "consistently",
+    "meaning": "בעקביות",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11700",
+    "word": "constantly",
+    "meaning": "באופן קבוע",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11701",
+    "word": "contradictory",
+    "meaning": "סותר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11702",
+    "word": "contrary",
+    "meaning": "להפך, בניגוד ל-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11703",
+    "word": "conversely",
+    "meaning": "לעומת זאת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11704",
+    "word": "correspondingly",
+    "meaning": "בהתאמה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11705",
+    "word": "coupled with",
+    "meaning": "יחד עם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11706",
+    "word": "currently",
+    "meaning": "כרגע, נכון לעכשיו",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11707",
+    "word": "daily",
+    "meaning": "יומיומי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11708",
+    "word": "despite",
+    "meaning": "למרות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11709",
+    "word": "different from",
+    "meaning": "שונה מ-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11710",
+    "word": "distant",
+    "meaning": "מרוחק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11711",
+    "word": "down",
+    "meaning": "למטה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11712",
+    "word": "due to",
+    "meaning": "בגלל, לאור",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11713",
+    "word": "during",
+    "meaning": "תוך כדי, במשך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11714",
+    "word": "e.g.",
+    "meaning": "לדוגמה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11715",
+    "word": "earlier",
+    "meaning": "קודם לכן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11716",
+    "word": "either... or…",
+    "meaning": "או... או...",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11717",
+    "word": "elsewhere",
+    "meaning": "במקום אחר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11718",
+    "word": "equally",
+    "meaning": "במידה שווה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11719",
+    "word": "especially",
+    "meaning": "במיוחד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11720",
+    "word": "essentially",
+    "meaning": "בעיקרו, במהותו",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11721",
+    "word": "even if",
+    "meaning": "גם אם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11722",
+    "word": "even so",
+    "meaning": "אף על פי כן",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11723",
+    "word": "even though",
+    "meaning": "למרות ש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11724",
+    "word": "eventually",
+    "meaning": "לבסוף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11725",
+    "word": "every day",
+    "meaning": "כל יום",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11726",
+    "word": "every now and then",
+    "meaning": "לפעמים",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11727",
+    "word": "except",
+    "meaning": "מלבד, חוץ מ-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11728",
+    "word": "farther",
+    "meaning": "הלאה, יותר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11729",
+    "word": "finally",
+    "meaning": "לבסוף, סוף סוף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11730",
+    "word": "first of all",
+    "meaning": "ראשית",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11731",
+    "word": "for",
+    "meaning": "בגלל ש-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11732",
+    "word": "for",
+    "meaning": "עבור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11733",
+    "word": "for example",
+    "meaning": "לדוגמה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11734",
+    "word": "for instance",
+    "meaning": "לדוגמה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11735",
+    "word": "for the most part",
+    "meaning": "בדרך-כלל",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11736",
+    "word": "forever",
+    "meaning": "לנצח, לתמיד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11737",
+    "word": "former",
+    "meaning": "קודם, לשעבר",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11738",
+    "word": "forward",
+    "meaning": "קדימה, לפנים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11739",
+    "word": "frequently",
+    "meaning": "לעיתים קרובות",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11740",
+    "word": "from",
+    "meaning": "מ-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11741",
+    "word": "from",
+    "meaning": "מ-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11742",
+    "word": "from time to time",
+    "meaning": "מפעם לפעם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11743",
+    "word": "further",
+    "meaning": "בהמשך",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11744",
+    "word": "further",
+    "meaning": "לקדם",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11745",
+    "word": "furthermore",
+    "meaning": "זאת ועוד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11746",
+    "word": "given that",
+    "meaning": "בהתחשב בכך",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11747",
+    "word": "granted (that)",
+    "meaning": "בהנחה ש-, נתון ש-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11748",
+    "word": "hardly ever",
+    "meaning": "כמעט אף פעם",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11749",
+    "word": "hence",
+    "meaning": "לפיכך, לכן",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11750",
+    "word": "here",
+    "meaning": "כאן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11751",
+    "word": "how",
+    "meaning": "איך, כיצד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11752",
+    "word": "however",
+    "meaning": "למרות זאת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11753",
+    "word": "however",
+    "meaning": "בכל דרך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11754",
+    "word": "i.e.",
+    "meaning": "כלומר, לדוגמה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11755",
+    "word": "identically",
+    "meaning": "באופן זהה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11756",
+    "word": "If",
+    "meaning": "אם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11757",
+    "word": "immediately",
+    "meaning": "מיד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11758",
+    "word": "in",
+    "meaning": "ב-, בתוך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11759",
+    "word": "in a moment",
+    "meaning": "בעוד רגע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11760",
+    "word": "in a word",
+    "meaning": "במילה אחת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11761",
+    "word": "in addition",
+    "meaning": "בנוסף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11762",
+    "word": "in case",
+    "meaning": "במקרה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11763",
+    "word": "in comparison",
+    "meaning": "בהשוואה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11764",
+    "word": "in conclusion",
+    "meaning": "לסיכום",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11765",
+    "word": "in contrast to",
+    "meaning": "בניגוד ל-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11766",
+    "word": "in due time",
+    "meaning": "בבוא העת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11767",
+    "word": "in fact",
+    "meaning": "למעשה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11768",
+    "word": "in fact",
+    "meaning": "למעשה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11769",
+    "word": "in front of",
+    "meaning": "בחזית של, מול",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11770",
+    "word": "in general",
+    "meaning": "באופן כללי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11771",
+    "word": "in light of",
+    "meaning": "לאור",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11772",
+    "word": "in order to",
+    "meaning": "על-מנת, בכדי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11773",
+    "word": "in other words",
+    "meaning": "במילים אחרות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11774",
+    "word": "in particular",
+    "meaning": "במיוחד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11775",
+    "word": "in spite of",
+    "meaning": "למרות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11776",
+    "word": "in that case",
+    "meaning": "במקרה הזה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11777",
+    "word": "in the same way",
+    "meaning": "באותו אופן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11778",
+    "word": "incidentally",
+    "meaning": "דרך אגב",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11779",
+    "word": "including",
+    "meaning": "כולל",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11780",
+    "word": "indeed",
+    "meaning": "בהחלט",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11781",
+    "word": "initially",
+    "meaning": "בתחילה",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11782",
+    "word": "inside",
+    "meaning": "בתוך, פנים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11783",
+    "word": "instantly",
+    "meaning": "מיד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11784",
+    "word": "instead",
+    "meaning": "במקום",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11785",
+    "word": "instead of",
+    "meaning": "במקום",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11786",
+    "word": "into",
+    "meaning": "אל תוך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11787",
+    "word": "just as",
+    "meaning": "בדיוק כמו",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11788",
+    "word": "just as… so…",
+    "meaning": "בדיוק כמו... גם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11789",
+    "word": "last",
+    "meaning": "אחרון",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11790",
+    "word": "later",
+    "meaning": "מאוחר יותר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11791",
+    "word": "latter",
+    "meaning": "שני, אחרון",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11792",
+    "word": "led to",
+    "meaning": "הוביל ל-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11793",
+    "word": "left",
+    "meaning": "שמאלה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11794",
+    "word": "like",
+    "meaning": "כמו",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11795",
+    "word": "likewise",
+    "meaning": "כמו-כן, באותו אופן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11796",
+    "word": "mainly",
+    "meaning": "בעיקר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11797",
+    "word": "markedly",
+    "meaning": "בצורה ניכרת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11798",
+    "word": "meanwhile",
+    "meaning": "בינתיים",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11799",
+    "word": "moreover",
+    "meaning": "זאת ועוד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11800",
+    "word": "mostly",
+    "meaning": "לרוב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11801",
+    "word": "namely",
+    "meaning": "במיוחד, כלומר",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11802",
+    "word": "near",
+    "meaning": "קרוב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11803",
+    "word": "nearby",
+    "meaning": "ליד, קרוב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11804",
+    "word": "neither... nor…",
+    "meaning": "לא... ולא...",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11805",
+    "word": "never",
+    "meaning": "אף פעם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11806",
+    "word": "nevertheless",
+    "meaning": "למרות זאת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11807",
+    "word": "next",
+    "meaning": "הבא",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11808",
+    "word": "next to",
+    "meaning": "ליד",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11809",
+    "word": "nonetheless",
+    "meaning": "למרות זאת",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11810",
+    "word": "not only",
+    "meaning": "לא רק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11811",
+    "word": "not only... but also…",
+    "meaning": "לא רק... אלא גם...",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11812",
+    "word": "not to mention",
+    "meaning": "שלא לדבר על",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11813",
+    "word": "not... but…",
+    "meaning": "לא... אבל...",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11814",
+    "word": "notably",
+    "meaning": "ראוי לציון",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11815",
+    "word": "now",
+    "meaning": "עכשיו",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11816",
+    "word": "occasionally",
+    "meaning": "מידי פעם",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11817",
+    "word": "of",
+    "meaning": "של, מ-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11818",
+    "word": "of course",
+    "meaning": "כמובן, בוודאי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11819",
+    "word": "of course… but…",
+    "meaning": "כמובן... אך...",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11820",
+    "word": "often",
+    "meaning": "לעיתים קרובות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11821",
+    "word": "on",
+    "meaning": "על",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11822",
+    "word": "on one hand…on the other hand",
+    "meaning": "מצד אחד... מצד שני",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11823",
+    "word": "on the contrary",
+    "meaning": "בניגוד לכך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11824",
+    "word": "on top of",
+    "meaning": "על, מעל",
+    "choice": "maybe",
+    "choice_mark": "?",
+    "knowing_grade": 5
+  },
+  {
+    "id": "w_11825",
+    "word": "once",
+    "meaning": "פעם (בעבר)",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11826",
+    "word": "once",
+    "meaning": "ברגע ש-",
+    "choice": "maybe",
+    "choice_mark": "?",
+    "knowing_grade": 5
+  },
+  {
+    "id": "w_11827",
+    "word": "once in a while",
+    "meaning": "מידי פעם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11828",
+    "word": "only",
+    "meaning": "רק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11829",
+    "word": "opposite",
+    "meaning": "מנוגד, ממול",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11830",
+    "word": "or",
+    "meaning": "או",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11831",
+    "word": "ordinarily",
+    "meaning": "בדרך-כלל",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11832",
+    "word": "otherwise",
+    "meaning": "אחרת",
+    "choice": "maybe",
+    "choice_mark": "?",
+    "knowing_grade": 5
+  },
+  {
+    "id": "w_11833",
+    "word": "outside",
+    "meaning": "חוץ",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11834",
+    "word": "outside",
+    "meaning": "בחוץ",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11835",
+    "word": "over",
+    "meaning": "על, מעל",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11836",
+    "word": "overall",
+    "meaning": "כולל, באופן כללי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11837",
+    "word": "owing to",
+    "meaning": "הודות ל-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11838",
+    "word": "particularly",
+    "meaning": "במיוחד, בפרט",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11839",
+    "word": "past",
+    "meaning": "עבר, שעבר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11840",
+    "word": "permanently",
+    "meaning": "קבוע",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11841",
+    "word": "perpetually",
+    "meaning": "נצחי, לנצח",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11842",
+    "word": "presently",
+    "meaning": "כעת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11843",
+    "word": "previously",
+    "meaning": "הקודם, לפני-כן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11844",
+    "word": "primarily",
+    "meaning": "בעיקר",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11845",
+    "word": "prior to",
+    "meaning": "קודם ל-, לפני",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11846",
+    "word": "provided that",
+    "meaning": "בתנאי ש-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11847",
+    "word": "rarely",
+    "meaning": "לעיתים נדירות",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11848",
+    "word": "rather",
+    "meaning": "עדיף",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11849",
+    "word": "rather than",
+    "meaning": "במקום, יותר מ-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11850",
+    "word": "regardless",
+    "meaning": "למרות, ללא קשר",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11851",
+    "word": "regularly",
+    "meaning": "באופן קבוע",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11852",
+    "word": "right",
+    "meaning": "ימינה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11853",
+    "word": "seldom",
+    "meaning": "לעיתים רחוקות",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11854",
+    "word": "shortly",
+    "meaning": "בקיצור, בקרוב",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11855",
+    "word": "sideways",
+    "meaning": "הצידה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11856",
+    "word": "significantly",
+    "meaning": "באופן משמעותי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11857",
+    "word": "similarly",
+    "meaning": "באופן דומה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11858",
+    "word": "simultaneously",
+    "meaning": "בו זמנית",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11859",
+    "word": "since",
+    "meaning": "מאז",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11860",
+    "word": "since",
+    "meaning": "מכיוון ש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11861",
+    "word": "so",
+    "meaning": "אז, כך ש-, ולכן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11862",
+    "word": "so long as",
+    "meaning": "כל עוד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11863",
+    "word": "so that",
+    "meaning": "כך ש-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11864",
+    "word": "sometimes",
+    "meaning": "לעיתים, לפעמים",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11865",
+    "word": "soon",
+    "meaning": "בהקדם, מוקדם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11866",
+    "word": "specifically",
+    "meaning": "במיוחד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11867",
+    "word": "still",
+    "meaning": "עדיין, למרות זאת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11868",
+    "word": "subsequently",
+    "meaning": "כתוצאה מכך",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11869",
+    "word": "such as",
+    "meaning": "כמו למשל",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11870",
+    "word": "suddenly",
+    "meaning": "לפתע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11871",
+    "word": "surely",
+    "meaning": "ללא ספק",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11872",
+    "word": "surprisingly",
+    "meaning": "במפתיע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11873",
+    "word": "than",
+    "meaning": "מ-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11874",
+    "word": "thanks to",
+    "meaning": "תודות ל-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11875",
+    "word": "that",
+    "meaning": "ש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11876",
+    "word": "then",
+    "meaning": "אז",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11877",
+    "word": "then",
+    "meaning": "אז",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11878",
+    "word": "there",
+    "meaning": "שם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11879",
+    "word": "therefore",
+    "meaning": "לכן",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11880",
+    "word": "though",
+    "meaning": "למרות זאת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11881",
+    "word": "though",
+    "meaning": "למרות ש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11882",
+    "word": "thus",
+    "meaning": "לכן, כך ש-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11883",
+    "word": "to begin with",
+    "meaning": "בתור התחלה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11884",
+    "word": "to sum up",
+    "meaning": "כדי לסכם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11885",
+    "word": "together with",
+    "meaning": "יחד עם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11886",
+    "word": "too",
+    "meaning": "גם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11887",
+    "word": "too",
+    "meaning": "יותר מידי",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11888",
+    "word": "toward",
+    "meaning": "אל, אל עבר",
+    "choice": "maybe",
+    "choice_mark": "?",
+    "knowing_grade": 5
+  },
+  {
+    "id": "w_11889",
+    "word": "truly",
+    "meaning": "באמת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11890",
+    "word": "under",
+    "meaning": "מתחת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11891",
+    "word": "underneath",
+    "meaning": "מתחת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11892",
+    "word": "undoubtedly",
+    "meaning": "ללא ספק",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11893",
+    "word": "unless",
+    "meaning": "אלא אם כן",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11894",
+    "word": "unlike",
+    "meaning": "שלא כמו",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11895",
+    "word": "until",
+    "meaning": "עד ש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11896",
+    "word": "until now",
+    "meaning": "עד עתה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11897",
+    "word": "up",
+    "meaning": "למעלה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11898",
+    "word": "upon",
+    "meaning": "על",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11899",
+    "word": "upside down",
+    "meaning": "הפוך",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11900",
+    "word": "usually",
+    "meaning": "בדרך-כלל",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11901",
+    "word": "vice versa",
+    "meaning": "להיפך",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11902",
+    "word": "what",
+    "meaning": "מה, איזה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11903",
+    "word": "when",
+    "meaning": "כאשר, כש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11904",
+    "word": "whenever",
+    "meaning": "כש-, מתישהו",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11905",
+    "word": "where",
+    "meaning": "היכן, איפה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11906",
+    "word": "where",
+    "meaning": "בעוד ש-",
+    "choice": "maybe",
+    "choice_mark": "?",
+    "knowing_grade": 5
+  },
+  {
+    "id": "w_11907",
+    "word": "whereas",
+    "meaning": "בעוד ש-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11908",
+    "word": "wherever",
+    "meaning": "בכל מקום, לא משנה היכן",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11909",
+    "word": "whether... or…",
+    "meaning": "בין אם... או...",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11910",
+    "word": "which",
+    "meaning": "איזה",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11911",
+    "word": "which",
+    "meaning": "אשר, ש-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11912",
+    "word": "while",
+    "meaning": "כל עוד",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11913",
+    "word": "while",
+    "meaning": "בזמן ש-",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11914",
+    "word": "who",
+    "meaning": "מי, ש-",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11915",
+    "word": "whom",
+    "meaning": "מי",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11916",
+    "word": "whose",
+    "meaning": "אשר לו, אשר הוא",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11917",
+    "word": "why",
+    "meaning": "מדוע",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11918",
+    "word": "with",
+    "meaning": "באמצעות, עם",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11919",
+    "word": "within",
+    "meaning": "בתוך",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  },
+  {
+    "id": "w_11920",
+    "word": "without",
+    "meaning": "מבלי, ללא",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11921",
+    "word": "yet",
+    "meaning": "עדיין, בכל זאת",
+    "choice": "yes",
+    "choice_mark": "✔",
+    "knowing_grade": 10
+  },
+  {
+    "id": "w_11922",
+    "word": "yet",
+    "meaning": "אך, אולם",
+    "choice": "no",
+    "choice_mark": "✖",
+    "knowing_grade": 0
+  }
+]

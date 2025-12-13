@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "w_15371",
+    "word": "abacus",
+    "meaning": "חשבונייה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15372",
+    "word": "academic",
+    "meaning": "אקדמי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15373",
+    "word": "actress",
+    "meaning": "שחקנית (בהצגה או סרט)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15374",
+    "word": "adorn",
+    "meaning": "לקשט",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15375",
+    "word": "agenda",
+    "meaning": "סדר יום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15376",
+    "word": "air conditioner",
+    "meaning": "מזגן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15377",
+    "word": "algae",
+    "meaning": "אצות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15378",
+    "word": "antler",
+    "meaning": "קרן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15379",
+    "word": "automobile",
+    "meaning": "כלי רכב, אוטו",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15380",
+    "word": "bass",
+    "meaning": "בס (במוזיקה)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15381",
+    "word": "bead",
+    "meaning": "חרוז",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15382",
+    "word": "beak",
+    "meaning": "מקור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15383",
+    "word": "bee",
+    "meaning": "דבורה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15384",
+    "word": "bell",
+    "meaning": "פעמון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15385",
+    "word": "berry",
+    "meaning": "גרגרי יער",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15386",
+    "word": "blade",
+    "meaning": "להב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15387",
+    "word": "blame",
+    "meaning": "להאשים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15388",
+    "word": "blanket",
+    "meaning": "שמיכה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15389",
+    "word": "bleak",
+    "meaning": "עגום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15390",
+    "word": "blew",
+    "meaning": "נשב (רוח), ניפח, פוצץ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15391",
+    "word": "brick",
+    "meaning": "לבנה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15392",
+    "word": "bully",
+    "meaning": "בריון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15393",
+    "word": "butterfly",
+    "meaning": "פרפר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15394",
+    "word": "cadaver",
+    "meaning": "גופה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15395",
+    "word": "camel",
+    "meaning": "גמל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15396",
+    "word": "cancel",
+    "meaning": "לבטל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15397",
+    "word": "candy",
+    "meaning": "ממתק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15398",
+    "word": "canvass",
+    "meaning": "לבדוק, לסקור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15399",
+    "word": "carpet",
+    "meaning": "שטיח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15400",
+    "word": "cash",
+    "meaning": "מזומן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15401",
+    "word": "cash",
+    "meaning": "לפדות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15402",
+    "word": "cashier",
+    "meaning": "קופאי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15403",
+    "word": "casino",
+    "meaning": "קזינו",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15404",
+    "word": "caterpillar",
+    "meaning": "זחל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15405",
+    "word": "cave",
+    "meaning": "מערה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15406",
+    "word": "caviar",
+    "meaning": "קוויאר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15407",
+    "word": "cereal",
+    "meaning": "דגני בוקר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15408",
+    "word": "cigarette",
+    "meaning": "סיגריה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15409",
+    "word": "citrus",
+    "meaning": "פרי הדר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15410",
+    "word": "clay",
+    "meaning": "חימר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15411",
+    "word": "cloud",
+    "meaning": "ענן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15412",
+    "word": "club",
+    "meaning": "מועדון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15413",
+    "word": "cockroach",
+    "meaning": "מקק, ג'וק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15414",
+    "word": "coffin",
+    "meaning": "ארון מתים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15415",
+    "word": "cologne",
+    "meaning": "קולון, בושם (של גבר)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15416",
+    "word": "compost",
+    "meaning": "זבל אורגני",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15417",
+    "word": "conductor",
+    "meaning": "מנצח (תזמורת)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15418",
+    "word": "conquistador",
+    "meaning": "כובש",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15419",
+    "word": "consonant",
+    "meaning": "עיצור (לשון)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15420",
+    "word": "coop",
+    "meaning": "לכלוא",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15421",
+    "word": "coop",
+    "meaning": "לול",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15422",
+    "word": "copper",
+    "meaning": "נחושת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15423",
+    "word": "cotton",
+    "meaning": "כותנה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15424",
+    "word": "cougar",
+    "meaning": "פומה, סוג של טורף",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15425",
+    "word": "coupon",
+    "meaning": "קופון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15426",
+    "word": "cucumber",
+    "meaning": "מלפפון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15427",
+    "word": "culminate",
+    "meaning": "הגיע לשיא",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15428",
+    "word": "czar",
+    "meaning": "צאר (שליט רוסי)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15429",
+    "word": "dart",
+    "meaning": "חץ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15430",
+    "word": "date",
+    "meaning": "תאריך",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15431",
+    "word": "date",
+    "meaning": "תמר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15432",
+    "word": "date",
+    "meaning": "יציאה, פגישה, דייט",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15433",
+    "word": "Dead Sea",
+    "meaning": "ים המלח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15434",
+    "word": "denominator",
+    "meaning": "מכנה (של שבר)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15435",
+    "word": "dental",
+    "meaning": "שקשור בשיניים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15436",
+    "word": "dentist",
+    "meaning": "רופא שיניים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15437",
+    "word": "diary",
+    "meaning": "יומן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15438",
+    "word": "dictator",
+    "meaning": "עריץ, דיקטטור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15439",
+    "word": "dilemma",
+    "meaning": "דילמה, בעיה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15440",
+    "word": "diurnal",
+    "meaning": "יומי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15441",
+    "word": "divorce",
+    "meaning": "גירושין",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15442",
+    "word": "doorstep",
+    "meaning": "מפתן הדלת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15443",
+    "word": "dovecote",
+    "meaning": "שובך",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15444",
+    "word": "dust",
+    "meaning": "אבק, לאבק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15445",
+    "word": "Dutch",
+    "meaning": "הולנדי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15446",
+    "word": "dwarf",
+    "meaning": "לגמד, גמד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15447",
+    "word": "dwindle",
+    "meaning": "הידלדל, התמעט",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15448",
+    "word": "eagle",
+    "meaning": "נשר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15449",
+    "word": "echo",
+    "meaning": "הד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15450",
+    "word": "edible",
+    "meaning": "אכיל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15451",
+    "word": "eel",
+    "meaning": "צלופח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15452",
+    "word": "elephant",
+    "meaning": "פיל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15453",
+    "word": "envelope",
+    "meaning": "מעטפה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15454",
+    "word": "exotic",
+    "meaning": "אקזוטי, מארץ זרה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15455",
+    "word": "explosive",
+    "meaning": "חומר נפץ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15456",
+    "word": "fairy",
+    "meaning": "פיה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15457",
+    "word": "fairytale",
+    "meaning": "אגדה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15458",
+    "word": "fan",
+    "meaning": "מאוורר, לאוורר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15459",
+    "word": "fan",
+    "meaning": "מעריץ, אוהד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15460",
+    "word": "fancy",
+    "meaning": "מגונדר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15461",
+    "word": "fancy",
+    "meaning": "מחבב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15462",
+    "word": "fashion",
+    "meaning": "אופנה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15463",
+    "word": "fashion",
+    "meaning": "לעצב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15464",
+    "word": "filmmaker",
+    "meaning": "יוצר סרטים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15465",
+    "word": "filter",
+    "meaning": "פילטר, מסנן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15466",
+    "word": "fisherman",
+    "meaning": "דייג",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15467",
+    "word": "fishing",
+    "meaning": "דיג",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15468",
+    "word": "flimsy",
+    "meaning": "עדין, שביר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15469",
+    "word": "folk",
+    "meaning": "עממי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15470",
+    "word": "folklore",
+    "meaning": "פולקלור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15471",
+    "word": "fool",
+    "meaning": "טיפש, לשטות במישהו",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15472",
+    "word": "footage",
+    "meaning": "קטע צילום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15473",
+    "word": "forest",
+    "meaning": "יער",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15474",
+    "word": "forgive",
+    "meaning": "לסלוח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15475",
+    "word": "fork",
+    "meaning": "מזלג",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15476",
+    "word": "formula",
+    "meaning": "נוסחה, פורמולה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15477",
+    "word": "formulate",
+    "meaning": "לנסח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15478",
+    "word": "fraternal",
+    "meaning": "אחוותי, של אחים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15479",
+    "word": "frog",
+    "meaning": "צפרדע",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15480",
+    "word": "furnish",
+    "meaning": "לרהט",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15481",
+    "word": "garbage",
+    "meaning": "זבל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15482",
+    "word": "garden",
+    "meaning": "גן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15483",
+    "word": "garlic",
+    "meaning": "שום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15484",
+    "word": "gate",
+    "meaning": "שער",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15485",
+    "word": "gift",
+    "meaning": "מתנה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15486",
+    "word": "glacier",
+    "meaning": "קרחון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15487",
+    "word": "gland",
+    "meaning": "בלוטה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15488",
+    "word": "glass",
+    "meaning": "כוס",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15489",
+    "word": "glass",
+    "meaning": "זכוכית",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15490",
+    "word": "glaze",
+    "meaning": "זיגוג",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15491",
+    "word": "glove",
+    "meaning": "כפפה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15492",
+    "word": "golden",
+    "meaning": "מוזהב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15493",
+    "word": "grammatical",
+    "meaning": "דקדוקי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15494",
+    "word": "grapes",
+    "meaning": "ענבים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15495",
+    "word": "grit",
+    "meaning": "גרגרים, לכלוך",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15496",
+    "word": "grocery",
+    "meaning": "מכולת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15497",
+    "word": "groom",
+    "meaning": "לטפח, לטפל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15498",
+    "word": "groom",
+    "meaning": "חתן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15499",
+    "word": "guillotine",
+    "meaning": "גיליוטינה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15500",
+    "word": "Gulf War",
+    "meaning": "מלחמת המפרץ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15501",
+    "word": "gym",
+    "meaning": "אולם ספורט",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15502",
+    "word": "gymnasium",
+    "meaning": "אולם ספורט",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15503",
+    "word": "handicap",
+    "meaning": "נכה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15504",
+    "word": "harmony",
+    "meaning": "הרמוניה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15505",
+    "word": "heart",
+    "meaning": "לב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15506",
+    "word": "heartbeat",
+    "meaning": "דופק, פעימות לב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15507",
+    "word": "heroine",
+    "meaning": "גיבורה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15508",
+    "word": "hilarious",
+    "meaning": "מצחיק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15509",
+    "word": "hill",
+    "meaning": "גבעה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15510",
+    "word": "horn",
+    "meaning": "קרן (של בע\"ח)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15511",
+    "word": "horn",
+    "meaning": "צופר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15512",
+    "word": "housemaid",
+    "meaning": "עוזרת בית, מנקה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15513",
+    "word": "howl",
+    "meaning": "יללה, לילל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15514",
+    "word": "index",
+    "meaning": "אינדקס, תוכן עניינים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15515",
+    "word": "inexpensive",
+    "meaning": "לא יקר, זול",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15516",
+    "word": "inn",
+    "meaning": "פונדק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15517",
+    "word": "intense",
+    "meaning": "עז, אינטנסיבי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15518",
+    "word": "intoxicate",
+    "meaning": "להרעיל, לשכר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15519",
+    "word": "intoxicate",
+    "meaning": "להלהיב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15520",
+    "word": "intuition",
+    "meaning": "אינטואיציה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15521",
+    "word": "invertebrate",
+    "meaning": "חסר-חוליות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15522",
+    "word": "ivory",
+    "meaning": "שנהב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15523",
+    "word": "janitor",
+    "meaning": "שרת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15524",
+    "word": "jog",
+    "meaning": "ריצה, ג'וגינג, לרוץ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15525",
+    "word": "joke",
+    "meaning": "בדיחה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15526",
+    "word": "jug",
+    "meaning": "כד, קנקן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15527",
+    "word": "juice",
+    "meaning": "מיץ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15528",
+    "word": "jungle",
+    "meaning": "ג'ונגל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15529",
+    "word": "junkyard",
+    "meaning": "מגרש גרוטאות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15530",
+    "word": "kettle",
+    "meaning": "קומקום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15531",
+    "word": "kite",
+    "meaning": "עפיפון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15532",
+    "word": "lake",
+    "meaning": "אגם",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15533",
+    "word": "lame",
+    "meaning": "צולע",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15534",
+    "word": "launder",
+    "meaning": "לכבס",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15535",
+    "word": "leaf (leaves)",
+    "meaning": "עלה (עלים)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15536",
+    "word": "league",
+    "meaning": "ליגה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15537",
+    "word": "league",
+    "meaning": "מידת אורך קדומה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15538",
+    "word": "leniency",
+    "meaning": "חמלה, רחמים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15539",
+    "word": "leopard",
+    "meaning": "נמר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15540",
+    "word": "lifestyle",
+    "meaning": "אורח חיים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15541",
+    "word": "lip",
+    "meaning": "שפה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15542",
+    "word": "liver",
+    "meaning": "כבד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15543",
+    "word": "loan",
+    "meaning": "הלוואה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15544",
+    "word": "loathe",
+    "meaning": "לתעב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15545",
+    "word": "loyalty",
+    "meaning": "נאמנות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15546",
+    "word": "luck",
+    "meaning": "מזל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15547",
+    "word": "lunch",
+    "meaning": "ארוחת צהריים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15548",
+    "word": "made",
+    "meaning": "עשה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15549",
+    "word": "magical",
+    "meaning": "קסום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15550",
+    "word": "magnificent",
+    "meaning": "מדהים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15551",
+    "word": "make sure",
+    "meaning": "להבטיח, לוודא",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15552",
+    "word": "makeup",
+    "meaning": "איפור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15553",
+    "word": "marble",
+    "meaning": "גוּלָּה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15554",
+    "word": "marble",
+    "meaning": "שיש",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15555",
+    "word": "marsupial",
+    "meaning": "חיית כיס",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15556",
+    "word": "mathematician",
+    "meaning": "מתמטיקאי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15557",
+    "word": "miracle",
+    "meaning": "נס, פלא",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15558",
+    "word": "mock",
+    "meaning": "ללעוג",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15559",
+    "word": "monk",
+    "meaning": "נזיר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15560",
+    "word": "monkey",
+    "meaning": "קוף",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15561",
+    "word": "monster",
+    "meaning": "מפלצת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15562",
+    "word": "mood",
+    "meaning": "מצב רוח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15563",
+    "word": "mosquito",
+    "meaning": "יתוש",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15564",
+    "word": "moth",
+    "meaning": "עש",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15565",
+    "word": "mouse (mice)",
+    "meaning": "עכבר (עכברים)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15566",
+    "word": "mouth",
+    "meaning": "פה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15567",
+    "word": "nausea",
+    "meaning": "בחילה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15568",
+    "word": "nickname",
+    "meaning": "כינוי חיבה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15569",
+    "word": "no longer",
+    "meaning": "לא עוד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15570",
+    "word": "numerator",
+    "meaning": "מונה (של שבר)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15571",
+    "word": "numeric",
+    "meaning": "מספרי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15572",
+    "word": "nut",
+    "meaning": "אגוז",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15573",
+    "word": "octopus",
+    "meaning": "תמנון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15574",
+    "word": "ode",
+    "meaning": "שיר הלל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15575",
+    "word": "olive",
+    "meaning": "זית",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15576",
+    "word": "onion",
+    "meaning": "בצל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15577",
+    "word": "orchestra",
+    "meaning": "תזמורת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15578",
+    "word": "orchestrate",
+    "meaning": "לתאם, לתזמר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15579",
+    "word": "oven",
+    "meaning": "תנור בישול",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15580",
+    "word": "overhaul",
+    "meaning": "שיפוץ, אוברול",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15581",
+    "word": "pad",
+    "meaning": "לרפד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15582",
+    "word": "paddle",
+    "meaning": "מחבט",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15583",
+    "word": "paddle",
+    "meaning": "משוט, דוושה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15584",
+    "word": "pan",
+    "meaning": "מחבת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15585",
+    "word": "paradox",
+    "meaning": "סתירה, פרדוקס",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15586",
+    "word": "pathology",
+    "meaning": "פתולוגיה, ענף ברפואה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15587",
+    "word": "peach",
+    "meaning": "אפרסק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15588",
+    "word": "pepper",
+    "meaning": "פלפל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15589",
+    "word": "perch",
+    "meaning": "ענף",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15590",
+    "word": "perch",
+    "meaning": "נח, ישב על ענף",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15591",
+    "word": "pet",
+    "meaning": "חיית מחמד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15592",
+    "word": "pharmacy",
+    "meaning": "בית מרקחת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15593",
+    "word": "philosophy",
+    "meaning": "פילוסופיה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15594",
+    "word": "photograph",
+    "meaning": "צילום, לצלם",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15595",
+    "word": "physical",
+    "meaning": "פיזי, גופני",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15596",
+    "word": "physicist",
+    "meaning": "פיזיקאי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15597",
+    "word": "pick",
+    "meaning": "מפרט לגיטרה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15598",
+    "word": "pick",
+    "meaning": "לקטוף, לבחור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15599",
+    "word": "pigeon",
+    "meaning": "יונה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15600",
+    "word": "pinch",
+    "meaning": "לצבוט",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15601",
+    "word": "pit",
+    "meaning": "בור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15602",
+    "word": "plaster",
+    "meaning": "טיח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15603",
+    "word": "pool",
+    "meaning": "בריכה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15604",
+    "word": "pothole",
+    "meaning": "מהמורה, בור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15605",
+    "word": "pottery",
+    "meaning": "קדרות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15606",
+    "word": "poultry",
+    "meaning": "עוף",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15607",
+    "word": "prank",
+    "meaning": "מתיחה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15608",
+    "word": "pregnancy",
+    "meaning": "הריון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15609",
+    "word": "pregnant",
+    "meaning": "הרה (בהריון)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15610",
+    "word": "prehistoric",
+    "meaning": "קדמון, פרה-היסטורי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15611",
+    "word": "preparation for",
+    "meaning": "הכנות לקראת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15612",
+    "word": "presentation",
+    "meaning": "מצגת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15613",
+    "word": "prick",
+    "meaning": "לדקור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15614",
+    "word": "printer",
+    "meaning": "מדפסת, דַּפָּס",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15615",
+    "word": "propaganda",
+    "meaning": "תעמולה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15616",
+    "word": "prowess",
+    "meaning": "מיומנות, יכולת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15617",
+    "word": "purse",
+    "meaning": "ארנק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15618",
+    "word": "quarrelsome",
+    "meaning": "וכחני",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15619",
+    "word": "rain",
+    "meaning": "גשם",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15620",
+    "word": "rainbow",
+    "meaning": "קשת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15621",
+    "word": "rainfall",
+    "meaning": "ירידת גשמים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15622",
+    "word": "rainstorm",
+    "meaning": "סערת גשמים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15623",
+    "word": "rat",
+    "meaning": "עכברוש",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15624",
+    "word": "redhead",
+    "meaning": "ג'ינג'י (סלנג)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15625",
+    "word": "rehearsal",
+    "meaning": "חזרה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15626",
+    "word": "rehearse",
+    "meaning": "לחזור, לתרגל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15627",
+    "word": "reincarnation",
+    "meaning": "גלגול נשמות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15628",
+    "word": "restaurant",
+    "meaning": "מסעדה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15629",
+    "word": "resurgence",
+    "meaning": "תחייה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15630",
+    "word": "retroactive",
+    "meaning": "רטרואקטיבי, למפרע",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15631",
+    "word": "rhyme",
+    "meaning": "חרוז",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15632",
+    "word": "rice",
+    "meaning": "אורז",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15633",
+    "word": "ride",
+    "meaning": "רכיבה, לרכוב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15634",
+    "word": "ring",
+    "meaning": "זירה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15635",
+    "word": "ring",
+    "meaning": "טבעת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15636",
+    "word": "ring, rang",
+    "meaning": "לצלצל, צלצל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15637",
+    "word": "roast",
+    "meaning": "לקלות, צלי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15638",
+    "word": "robbery",
+    "meaning": "שוד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15639",
+    "word": "robe",
+    "meaning": "חלוק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15640",
+    "word": "roof",
+    "meaning": "גג",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15641",
+    "word": "rubbish",
+    "meaning": "זבל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15642",
+    "word": "rubbish",
+    "meaning": "שטויות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15643",
+    "word": "run, ran",
+    "meaning": "לרוץ, רץ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15644",
+    "word": "saga",
+    "meaning": "סיפור, סאגה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15645",
+    "word": "salt",
+    "meaning": "מלח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15646",
+    "word": "sarcophagus",
+    "meaning": "ארון קבורה קדום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15647",
+    "word": "savanna",
+    "meaning": "ערבה, סוואנה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15648",
+    "word": "script",
+    "meaning": "תסריט",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15649",
+    "word": "seafood",
+    "meaning": "פירות ים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15650",
+    "word": "seat",
+    "meaning": "מושב, להושיב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15651",
+    "word": "secret",
+    "meaning": "סוד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15652",
+    "word": "sentiments",
+    "meaning": "רגשות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15653",
+    "word": "shadow",
+    "meaning": "צל, להאפיל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15654",
+    "word": "shave",
+    "meaning": "גילוח, לגלח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15655",
+    "word": "shelf (shelves)",
+    "meaning": "מדף (מדפים)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15656",
+    "word": "shepherd",
+    "meaning": "רועה צאן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15657",
+    "word": "shingles",
+    "meaning": "רעף",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15658",
+    "word": "shop",
+    "meaning": "חנות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15659",
+    "word": "shop",
+    "meaning": "לקנות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15660",
+    "word": "shoulder",
+    "meaning": "כתף",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15661",
+    "word": "show",
+    "meaning": "הופעה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15662",
+    "word": "show",
+    "meaning": "להראות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15663",
+    "word": "shy",
+    "meaning": "ביישן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15664",
+    "word": "silk",
+    "meaning": "משי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15665",
+    "word": "silkworm",
+    "meaning": "תולעת משי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15666",
+    "word": "singer",
+    "meaning": "זמר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15667",
+    "word": "sir",
+    "meaning": "אדון, תואר אצולה אנגלי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15668",
+    "word": "sky",
+    "meaning": "שמיים, רקיע",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15669",
+    "word": "smog",
+    "meaning": "ערפיח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15670",
+    "word": "smoke",
+    "meaning": "עשן, לעשן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15671",
+    "word": "snake",
+    "meaning": "נחש",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15672",
+    "word": "snap",
+    "meaning": "במהירות (סלנג)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15673",
+    "word": "snap",
+    "meaning": "להישבר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15674",
+    "word": "snarl",
+    "meaning": "לרטון, לנחור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15675",
+    "word": "sneeze",
+    "meaning": "להתעטש",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15676",
+    "word": "snow",
+    "meaning": "שלג",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15677",
+    "word": "soccer",
+    "meaning": "כדורגל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15678",
+    "word": "sold",
+    "meaning": "מכר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15679",
+    "word": "South",
+    "meaning": "דרום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15680",
+    "word": "southern",
+    "meaning": "דרומי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15681",
+    "word": "speck",
+    "meaning": "כתם",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15682",
+    "word": "spider",
+    "meaning": "עכביש",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15683",
+    "word": "spinach",
+    "meaning": "תרד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15684",
+    "word": "sponsor",
+    "meaning": "נותן חסות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15685",
+    "word": "spontaneous",
+    "meaning": "ללא מחשבה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15686",
+    "word": "spread",
+    "meaning": "התפשטות, פיזור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15687",
+    "word": "spread",
+    "meaning": "ממרח, למרוח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15688",
+    "word": "spy",
+    "meaning": "מרגל, לרגל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15689",
+    "word": "staircase",
+    "meaning": "גרם מדרגות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15690",
+    "word": "stalk",
+    "meaning": "לעקוב, להטריד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15691",
+    "word": "star",
+    "meaning": "כוכב, לככב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15692",
+    "word": "staunch",
+    "meaning": "לעצור, לחסום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15693",
+    "word": "staunch",
+    "meaning": "חזק, מוצק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15694",
+    "word": "steal",
+    "meaning": "לגנוב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15695",
+    "word": "stereotype",
+    "meaning": "סטריאוטיפ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15696",
+    "word": "sticky",
+    "meaning": "דביק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15697",
+    "word": "stove",
+    "meaning": "תנור, כיריים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15698",
+    "word": "stroke",
+    "meaning": "מכה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15699",
+    "word": "stroke",
+    "meaning": "ליטוף",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15700",
+    "word": "stroke",
+    "meaning": "שבץ/אירוע מוחי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15701",
+    "word": "studio",
+    "meaning": "סטודיו",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15702",
+    "word": "stuff",
+    "meaning": "דברים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15703",
+    "word": "stuff",
+    "meaning": "למלא, לפחלץ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15704",
+    "word": "stunt",
+    "meaning": "פעלול",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15705",
+    "word": "stupid",
+    "meaning": "טיפש",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15706",
+    "word": "subtraction",
+    "meaning": "חיסור (חשבון)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15707",
+    "word": "sugar",
+    "meaning": "סוכר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15708",
+    "word": "sweet",
+    "meaning": "מתוק, ממתק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15709",
+    "word": "swept away",
+    "meaning": "נסחף",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15710",
+    "word": "swindler",
+    "meaning": "רמאי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15711",
+    "word": "sword",
+    "meaning": "חרב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15712",
+    "word": "syllable",
+    "meaning": "הברה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15713",
+    "word": "syndrome",
+    "meaning": "תסמונת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15714",
+    "word": "syrup",
+    "meaning": "סירופ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15715",
+    "word": "tale",
+    "meaning": "סיפור, אגדה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15716",
+    "word": "taste",
+    "meaning": "טעם, לטעום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15717",
+    "word": "tax",
+    "meaning": "מס",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15718",
+    "word": "teeth, tooth",
+    "meaning": "שיניים, שן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15719",
+    "word": "tent",
+    "meaning": "אוהל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15720",
+    "word": "thank",
+    "meaning": "תודה, להודות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15721",
+    "word": "theater",
+    "meaning": "תיאטרון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15722",
+    "word": "theater",
+    "meaning": "בית קולנוע",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15723",
+    "word": "theoretically",
+    "meaning": "תיאורטית, לכאורה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15724",
+    "word": "theory",
+    "meaning": "תיאוריה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15725",
+    "word": "thimble",
+    "meaning": "אצבעון (לתפירה)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15726",
+    "word": "through",
+    "meaning": "דרך, מבעד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15727",
+    "word": "throughout",
+    "meaning": "במשך, בכל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15728",
+    "word": "throw",
+    "meaning": "לזרוק, זריקה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15729",
+    "word": "ticket",
+    "meaning": "כרטיס",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15730",
+    "word": "timeline",
+    "meaning": "ציר זמן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15731",
+    "word": "tin",
+    "meaning": "בדיל, עשוי מפח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15732",
+    "word": "tiny",
+    "meaning": "קטנטן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15733",
+    "word": "toad",
+    "meaning": "קרפדה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15734",
+    "word": "toes",
+    "meaning": "בהונות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15735",
+    "word": "tongue",
+    "meaning": "לשון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15736",
+    "word": "treasure",
+    "meaning": "אוצר, לנצור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15737",
+    "word": "treat",
+    "meaning": "להתייחס",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15738",
+    "word": "treat",
+    "meaning": "פינוק, ממתק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15739",
+    "word": "treat",
+    "meaning": "לפנק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15740",
+    "word": "treatment",
+    "meaning": "טיפול",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15741",
+    "word": "treaty",
+    "meaning": "אמנה,הסכם, חוזה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15742",
+    "word": "trigger",
+    "meaning": "הדק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15743",
+    "word": "triggered",
+    "meaning": "גרם, עורר, הוביל ל-",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15744",
+    "word": "trim",
+    "meaning": "לגזום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15745",
+    "word": "triple",
+    "meaning": "פי 3",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15746",
+    "word": "truck",
+    "meaning": "משאית, קרון משא",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15747",
+    "word": "tutor",
+    "meaning": "מורה פרטי, להדריך",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15748",
+    "word": "twig",
+    "meaning": "ענף קטן, זרד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15749",
+    "word": "twins",
+    "meaning": "תאומים",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15750",
+    "word": "ugly",
+    "meaning": "מכוער",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15751",
+    "word": "unattractive",
+    "meaning": "לא מושך",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15752",
+    "word": "uncle",
+    "meaning": "דוד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15753",
+    "word": "unconcerned",
+    "meaning": "לא מודאג",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15754",
+    "word": "uncritical",
+    "meaning": "לא ביקורתי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15755",
+    "word": "unearth",
+    "meaning": "לחשוף, לחפור",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15756",
+    "word": "unfair",
+    "meaning": "לא הוגן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15757",
+    "word": "unholy",
+    "meaning": "לא קדוש, לא מוסרי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15758",
+    "word": "unwanted",
+    "meaning": "לא רצוי",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15759",
+    "word": "upbringing",
+    "meaning": "גידול, חינוך",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15760",
+    "word": "upholstery",
+    "meaning": "ריפוד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15761",
+    "word": "usher",
+    "meaning": "סדרן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15762",
+    "word": "using up",
+    "meaning": "לכלות, לנצל עד תום",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15763",
+    "word": "vacation",
+    "meaning": "חופשה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15764",
+    "word": "vertebrate",
+    "meaning": "בעל חוליות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15765",
+    "word": "vest",
+    "meaning": "אפודה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15766",
+    "word": "victory",
+    "meaning": "ניצחון",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15767",
+    "word": "villain",
+    "meaning": "רשע, נבל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15768",
+    "word": "vinegar",
+    "meaning": "חומץ",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15769",
+    "word": "viper",
+    "meaning": "צפע",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15770",
+    "word": "vociferous",
+    "meaning": "רעשני",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15771",
+    "word": "vowel",
+    "meaning": "תנועה (לשון)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15772",
+    "word": "wall",
+    "meaning": "קיר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15773",
+    "word": "wart",
+    "meaning": "יבלת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15774",
+    "word": "wasp",
+    "meaning": "צרעה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15775",
+    "word": "waterfall",
+    "meaning": "מפל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15776",
+    "word": "wave",
+    "meaning": "גל",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15777",
+    "word": "weapon",
+    "meaning": "נשק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15778",
+    "word": "wear",
+    "meaning": "ללבוש",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15779",
+    "word": "weave",
+    "meaning": "לטוות, לארוג",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15780",
+    "word": "wedding",
+    "meaning": "חתונה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15781",
+    "word": "weekend",
+    "meaning": "סוף שבוע",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15782",
+    "word": "well",
+    "meaning": "באר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15783",
+    "word": "well",
+    "meaning": "טוב, היטב",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15784",
+    "word": "well",
+    "meaning": "בריא",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15785",
+    "word": "whale",
+    "meaning": "לוויתן",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15786",
+    "word": "whistle",
+    "meaning": "משרוקית, לשרוק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15787",
+    "word": "wholesale",
+    "meaning": "סיטונאות",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15788",
+    "word": "wife",
+    "meaning": "אישה, רעיה",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15789",
+    "word": "win",
+    "meaning": "ניצחון, לנצח",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15790",
+    "word": "wolf (wolves)",
+    "meaning": "זאב (זאבים)",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15791",
+    "word": "work",
+    "meaning": "עבודה, לעבוד",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15792",
+    "word": "worm",
+    "meaning": "תולעת",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15793",
+    "word": "writer",
+    "meaning": "סופר",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15794",
+    "word": "yawn",
+    "meaning": "לפהק, פיהוק",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  },
+  {
+    "id": "w_15795",
+    "word": "zealot",
+    "meaning": "קנאי, פנט",
+    "choice": "unknown",
+    "choice_mark": "",
+    "knowing_grade": -1
+  }
+]
