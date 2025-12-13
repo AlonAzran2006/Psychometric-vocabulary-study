@@ -401,7 +401,6 @@ app.add_middleware(
 )
 
 
-# --- on_startup (מצומצם) ---
 @app.head("/health")
 def health_check():
     """
@@ -410,7 +409,12 @@ def health_check():
     # 🌟 אין צורך בבדיקה מורכבת של DB או RAM, רק החזרת סטטוס
     return {"status": "ok", "app": "WordsTrainer API"}
 
+@app.get("/")
+def root():
+    return {"status": "ok"}
 
+
+# --- on_startup (מצומצם) ---
 @app.on_event("startup")
 def on_startup():
     """
