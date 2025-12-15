@@ -393,7 +393,7 @@ app.add_middleware(
     allow_origins=[
         "http://127.0.0.1:3000",
         "http://localhost:3000",
-        "https://psicho-project.vercel.app"
+        "https://psychometric-vocabulary-study-front-iota.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
