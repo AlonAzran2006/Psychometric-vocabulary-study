@@ -297,7 +297,7 @@ def build_train_queue(training_ids: List[str], user_grades: Dict[str, float]) ->
 
         wobj, fidx = entry
         # 🌟 קורא את הציון הפרטי של המשתמש
-        grade = user_grades.get(wid, 0.0)
+        grade = user_grades.get(wid, -1.0)
         new_queue.append(make_queue_item(wobj, fidx, grade))
 
     if missing_ids:
@@ -626,7 +626,7 @@ def create_training(req: CreateTrainingRequest):
     # 2. לולאה על המילים וסינון/חישוב
     for wid in eligible_word_ids:
         # 🌟 קורא ציון ממצב המשתמש
-        grade = session['user_grades'].get(wid, 0.0)
+        grade = session['user_grades'].get(wid, -1.0)
 
         if 0 <= grade < 9.9:
             words_with_grades.append((wid, grade))
