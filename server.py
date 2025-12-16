@@ -501,7 +501,7 @@ def memorize_unit(req: MemorizeUnitRequest):
     for wid, (wobj, fidx) in word_index.items():
         if fidx == requested_file_index:
             # 🌟 קורא את הציון המעודכן ישירות ממצב המשתמש
-            current_grade = session['user_grades'].get(wid, 0.0)
+            current_grade = session['user_grades'].get(wid, -1.0)
 
             meaning_value = wobj.get("meaning") or wobj.get("meaning_he") or ""
 
