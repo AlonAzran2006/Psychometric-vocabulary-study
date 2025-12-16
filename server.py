@@ -486,7 +486,7 @@ def memorization_update_word(req: MemorizationUpdateWordRequest, background_task
     }
 
 
-# --- memorize_unit ---
+# --- memorize_unit ----
 
 @app.post("/memorize_unit")
 def memorize_unit(req: MemorizeUnitRequest):
