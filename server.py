@@ -733,7 +733,7 @@ def load_training(req: LoadTrainingRequest):
         }
 
     # שליפת המילה הראשונה מהתור של המשתמש
-    first_item = session['training_queue'].training_queue[0] if session['training_queue'] else None
+    first_item = session['training_queue'][0] if session['training_queue'] else None
 
     if first_item is None:
         return {
