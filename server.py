@@ -755,6 +755,131 @@ def load_training(req: LoadTrainingRequest):
     }
 
 
+# --- load_training_full ---
+
+@app.post("/load_training_full")
+def load_training_full(req: LoadTrainingRequest):
+    """
+    טוען אימון ומחזיר את כל המילים שלו (לא רק הראשונה).
+    זה מאפשר ללקוח לנהל את התור מקומית ללא קריאות לשרת בכל פעם.
+    """
+    # 🌟 שליפת סשן המשתמש
+    session = get_user_session(req.user_uid)
+    requested_name = req.training_name
+
+    # 1) אם זה האימון הנוכחי – אין צורך לטעון מחדש
+    if session['current_training_name'] == requested_name and session['current_training_ids']:
+        training_ids = session['current_training_ids'][:]
+    else:
+        # 2) קודם ננסה מהזיכרון הכללי של האימונים (כבר משוחזר)
+        if requested_name in session['in_memory_trainings']:
+            training_ids = session['in_memory_trainings'][requested_name][:]
+        else:
+            # 3) רק אם אין בזיכרון – נטען מ-Firestore ונשחזר (מעביר user_uid)
+            training_data = fs_get_training(req.user_uid, requested_name)  # 🌟 פונקציה מעודכנת
+
+            if training_data is None:
+                raise HTTPException(
+                    status_code=404,
+                    detail=f"Training '{requested_name}' not found for user {req.user_uid}"
+                )
+
+            original_ids = training_data.get('original_ids', [])
+            removed_ids = training_data.get('removed_ids', [])
+            added_to_end = training_data.get('added_to_end', [])
+
+            # שחזור התור
+            training_ids = rebuild_queue_ids(original_ids, removed_ids, added_to_end)
+
+            # שומרים את הרשימה המשוחזרת לזיכרון הסשן
+            session['in_memory_trainings'][requested_name] = training_ids[:]
+
+        # 4) עדכון "האימון הנוכחי" + שמירה כאימון אחרון
+        session['current_training_name'] = requested_name
+        session['current_training_ids'] = training_ids[:]
+        fs_set_last_training(req.user_uid, requested_name)  # 🌟 פונקציה מעודכנת
+
+    if not isinstance(training_ids, list) or len(training_ids) == 0:
+        return {
+            "status": "ok",
+            "training_name": requested_name,
+            "training_complete": True,
+            "words": [],
+            "user_grades": {},
+            "message": "Training exists but has no words."
+        }
+
+    # 🌟 בניית רשימת כל המילים עם הציונים הפרטיים של המשתמש
+    all_words = []
+    user_grades_dict = {}
+    
+    for wid in training_ids:
+        entry = word_index.get(wid)
+        if not entry:
+            continue
+
+        wobj, fidx = entry
+        grade = session['user_grades'].get(wid, -1.0)
+        user_grades_dict[wid] = grade
+        
+        meaning_value = wobj.get("meaning") or wobj.get("meaning_he") or ""
+        word_item = make_queue_item(wobj, fidx, grade)
+        all_words.append(word_item)
+
+    return {
+        "status": "ok",
+        "training_name": requested_name,
+        "training_complete": False,
+        "words": all_words,
+        "user_grades": user_grades_dict,
+        "total_words": len(all_words)
+    }
+
+
+# --- sync_training_updates ---
+
+class SyncTrainingUpdatesRequest(UserRequestBase):
+    training_name: str = Field(..., min_length=1)
+    grade_updates: List[Dict[str, Any]] = Field(..., description="List of {word_id: str, grade: float}")
+    removed_ids: List[str] = Field(default_factory=list)
+    added_to_end: List[str] = Field(default_factory=list)
+
+
+@app.post("/sync_training_updates")
+def sync_training_updates(req: SyncTrainingUpdatesRequest, background_tasks: BackgroundTasks):
+    """
+    מסנכרן עדכונים מהלקוח לשרת.
+    הלקוח שולח את כל העדכונים (ציונים, removed_ids, added_to_end) בבת אחת.
+    """
+    # 🌟 שליפת סשן המשתמש
+    session = get_user_session(req.user_uid)
+
+    # 1. עדכון ציונים
+    for update in req.grade_updates:
+        word_id = update.get("word_id")
+        grade = update.get("grade")
+        if word_id and grade is not None:
+            session['user_grades'][word_id] = float(grade)
+            # 🌟 שמירת הציון ל-Firestore ברקע
+            background_tasks.add_task(fs_set_grade, req.user_uid, word_id, float(grade))
+
+    # 2. עדכון removed_ids ו-added_to_end ב-Firestore
+    if req.training_name:
+        # 🌟 קריאת נתוני האימון הנוכחיים
+        training_data = fs_get_training(req.user_uid, req.training_name)
+        if training_data:
+            # עדכון removed_ids ו-added_to_end
+            training_data["removed_ids"] = req.removed_ids
+            training_data["added_to_end"] = req.added_to_end
+            # 🌟 שמירה ברקע
+            background_tasks.add_task(fs_set_training, req.user_uid, req.training_name, training_data)
+
+    return {
+        "status": "ok",
+        "message": f"Synced {len(req.grade_updates)} grade updates and training log for '{req.training_name}'"
+    }
+
+
 # --- list_trainings ---
 
 @app.get("/list_trainings")
