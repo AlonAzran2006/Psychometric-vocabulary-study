@@ -628,7 +628,7 @@ def create_training(req: CreateTrainingRequest):
         # 🌟 קורא ציון ממצב המשתמש
         grade = session['user_grades'].get(wid, -1.0)
 
-        if 0 <= grade < 9.9:
+        if 0 <= grade < 9.5:
             words_with_grades.append((wid, grade))
 
     if not words_with_grades:
@@ -640,13 +640,15 @@ def create_training(req: CreateTrainingRequest):
     # 3. החלטת מספר הופעות ובניית רצף (Sequence) (לוגיקה נשארת)
     word_repeat = []
     for wid, g in words_with_grades:
-        repeats = 3 if g < 5 else (2 if g <= 9 else 1)
+        repeats = 2 if g < 2 else 1
         word_repeat.append((wid, repeats))
 
     sequence = [wid for wid, _ in word_repeat]
-    sequence.extend([wid for wid, r in word_repeat if r >= 2])
-    sequence.extend([wid for wid, r in word_repeat if r >= 3])
     random.shuffle(sequence)
+    sequence2 = [wid for wid, r in word_repeat if r >= 2]
+    random.shuffle(sequence2)
+    sequence.extend(sequence2)
+
 
     # 4. שמירת האימון ב-Firestore (מעביר user_uid)
     payload_data = {
