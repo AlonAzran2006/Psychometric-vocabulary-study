@@ -65,16 +65,28 @@ def fs_set_grade(user_uid: str, word_id: str, grade: float) -> None:
 
 # === Firestore Trainings – users/<user_uid>/trainings/<training_name> ===
 
+def sanitize_training_name(training_name: str) -> str:
+    """
+    מנקה את שם האימון מתווים לא תקינים ל-Firestore document ID.
+    Firestore לא מאפשר: /, \, ?, #, [, ], *
+    """
+    # החלפת תווים לא תקינים
+    sanitized = training_name.replace('/', '_').replace('\\', '_').replace('?', '_')
+    sanitized = sanitized.replace('#', '_').replace('[', '_').replace(']', '_').replace('*', '_')
+    return sanitized
+
 # 🌟 הפונקציה מקבלת user_uid
 def fs_set_training(user_uid: str, training_name: str, payload_data: Dict[str, Any]) -> None:
     """שומר מסמך אימון פרטי ב-Firestore (יצירה ודריסה)."""
     if db is None:
         return
     try:
-        # 🌟 הנתיב החדש: users/{user_uid}/trainings/{training_name}
-        db.collection('users').document(user_uid).collection('trainings').document(training_name).set(payload_data)
+        # 🌟 ניקוי שם האימון מתווים לא תקינים
+        sanitized_name = sanitize_training_name(training_name)
+        # 🌟 הנתיב החדש: users/{user_uid}/trainings/{sanitized_name}
+        db.collection('users').document(user_uid).collection('trainings').document(sanitized_name).set(payload_data)
     except Exception as e:
-        print(f"[FS] Failed to set training {training_name} for user {user_uid}: {e}")
+        print(f"[FS] Failed to set training {training_name} (sanitized: {sanitize_training_name(training_name)}) for user {user_uid}: {e}")
 
 
 # 🌟 הפונקציה מקבלת user_uid
@@ -83,22 +95,30 @@ def fs_get_training(user_uid: str, training_name: str) -> Optional[Dict[str, Any
     if db is None:
         return None
     try:
+        # 🌟 ניקוי שם האימון מתווים לא תקינים
+        sanitized_name = sanitize_training_name(training_name)
         # 🌟 הנתיב החדש
-        doc = db.collection('users').document(user_uid).collection('trainings').document(training_name).get()
+        doc = db.collection('users').document(user_uid).collection('trainings').document(sanitized_name).get()
         return doc.to_dict() if doc.exists else None
     except Exception as e:
-        print(f"[FS] Failed to get training {training_name} for user {user_uid}: {e}")
+        print(f"[FS] Failed to get training {training_name} (sanitized: {sanitize_training_name(training_name)}) for user {user_uid}: {e}")
         return None
 
 
 # 🌟 הפונקציה מקבלת user_uid
 def fs_list_training_names(user_uid: str) -> List[str]:
-    """מחזיר רשימת שמות אימונים פרטיים למשתמש."""
+    """מחזיר רשימת שמות אימונים פרטיים למשתמש (השם המקורי, לא המנוקה)."""
     if db is None:
         return []
     try:
         # 🌟 הנתיב החדש
-        return [doc.id for doc in db.collection('users').document(user_uid).collection('trainings').stream()]
+        training_names = []
+        for doc in db.collection('users').document(user_uid).collection('trainings').stream():
+            data = doc.to_dict()
+            # אם יש שם מקורי במסמך, נשתמש בו. אחרת נשתמש ב-ID המנוקה
+            original_name = data.get('original_name') if data else None
+            training_names.append(original_name if original_name else doc.id)
+        return training_names
     except Exception as e:
         print(f"[FS] Failed to list training names for user {user_uid}: {e}")
         return []
