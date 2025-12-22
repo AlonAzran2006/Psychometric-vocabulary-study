@@ -12,12 +12,17 @@ import json
 import os
 import random
 import sys
+import time
 from collections import deque
 from typing import List, Dict, Any, Optional, Tuple, Literal
 
 from fastapi import FastAPI, HTTPException, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field, validator
+
+# Data type definitions
+DataType = Literal["en_he", "he_he"]
+DEFAULT_DATA_TYPE: DataType = "en_he"
 
 # 🌟 ייבוא Firebase
 import firebase_admin
@@ -37,6 +42,7 @@ db = None
 
 # תיקיות מקומיות
 DATA_DIR = "data"
+DATA_DIR_HE = "dataH"  # תיקיית הנתונים בעברית
 
 
 # ============================================
@@ -196,8 +202,18 @@ def fs_get_last_training(user_uid: str) -> Optional[str]:
 
 # ===== In-memory Global state (Words data only) =====
 # 🌟 נתונים גלובליים בלבד (מילים גולמיות מ-JSON)
-all_words_data_base: Dict[str, Dict[str, Any]] = {}
-word_index: Dict[str, Tuple[Dict[str, Any], int]] = {}
+# מפתח: data_type -> word_id -> data
+all_words_data_base: Dict[DataType, Dict[str, Dict[str, Any]]] = {
+    "en_he": {},
+    "he_he": {}
+}
+# מפתח: data_type -> word_id -> (word_obj, file_index)
+word_index: Dict[DataType, Dict[str, Tuple[Dict[str, Any], int]]] = {
+    "en_he": {},
+    "he_he": {}
+}
+# 🌟 אינדקס גלובלי: word_id -> data_type (מיפוי מהיר - כל ID ייחודי)
+word_id_to_data_type: Dict[str, DataType] = {}
 
 # 🌟 חדש: מנהל מצב המשתמשים (Session Manager)
 # { user_uid: { 'trainings': {...}, 'current_name': '...', 'queue': deque(...), 'user_grades': {...} } }
@@ -221,6 +237,7 @@ class MemorizationUpdateWordRequest(UserRequestBase):
 
 class MemorizeUnitRequest(UserRequestBase):
     file_index: int = Field(..., ge=1, le=10, description="1..10")
+    data_type: DataType = Field(default=DEFAULT_DATA_TYPE, description="Data type: en_he or he_he")
 
 
 class UpdateKnowingGradeRequest(UserRequestBase):
@@ -232,6 +249,7 @@ class UpdateKnowingGradeRequest(UserRequestBase):
 class CreateTrainingRequest(UserRequestBase):
     training_name: str = Field(..., min_length=1)
     file_indexes: List[int] = Field(..., min_length=1)
+    data_type: DataType = Field(default=DEFAULT_DATA_TYPE, description="Data type: en_he or he_he")
 
     @validator("file_indexes", each_item=True)
     def validate_file_index(cls, v):
@@ -253,12 +271,16 @@ def build_words_index():
     """
     בונה מיפוי id -> (אובייקט מילה מלא, file_index שבו נמצאת).
     טוען את כל הנתונים הגולמיים מ-10 הקבצים ל-RAM (all_words_data_base).
+    טוען גם מ-data (en_he) וגם מ-dataH (he_he).
     """
-    global word_index, all_words_data_base
+    global word_index, all_words_data_base, word_id_to_data_type
 
-    word_index = {}
-    all_words_data_base = {}
+    # אתחול
+    word_index = {"en_he": {}, "he_he": {}}
+    all_words_data_base = {"en_he": {}, "he_he": {}}
+    word_id_to_data_type = {}
 
+    # טעינת נתוני אנגלית (en_he)
     for idx in range(1, 11):
         filename = os.path.join(DATA_DIR, f"words ({idx}).json")
         if not os.path.exists(filename):
@@ -274,11 +296,37 @@ def build_words_index():
             wid = item.get("id")
             if wid:
                 # 🌟 שמירת העתק נקי (ללא ציונים מהקובץ) בבסיס הנתונים הגלובלי
-                item.pop("knowing_grade", None)
-                word_index[wid] = (item, idx)
-                all_words_data_base[wid] = item.copy()
+                item_clean = item.copy()
+                item_clean.pop("knowing_grade", None)
+                word_index["en_he"][wid] = (item_clean, idx)
+                all_words_data_base["en_he"][wid] = item_clean.copy()
+                # 🌟 מיפוי מהיר: word_id -> data_type (כל ID ייחודי)
+                word_id_to_data_type[wid] = "en_he"
 
-    print(f"Word index built. {len(all_words_data_base)} unique words loaded to RAM.")
+    # טעינת נתוני עברית (he_he)
+    for idx in range(1, 11):
+        filename = os.path.join(DATA_DIR_HE, f"words ({idx}).json")
+        if not os.path.exists(filename):
+            continue
+
+        try:
+            with open(filename, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except json.JSONDecodeError:
+            continue
+
+        for item in data:
+            wid = item.get("id")
+            if wid:
+                # 🌟 שמירת העתק נקי (ללא ציונים מהקובץ) בבסיס הנתונים הגלובלי
+                item_clean = item.copy()
+                item_clean.pop("knowing_grade", None)
+                word_index["he_he"][wid] = (item_clean, idx)
+                all_words_data_base["he_he"][wid] = item_clean.copy()
+                # 🌟 מיפוי מהיר: word_id -> data_type (כל ID ייחודי)
+                word_id_to_data_type[wid] = "he_he"
+
+    print(f"Word index built. en_he: {len(all_words_data_base['en_he'])} words, he_he: {len(all_words_data_base['he_he'])} words loaded to RAM. Total unique IDs: {len(word_id_to_data_type)}")
 
 
 def calc_new_grade(old_grade: float, test_grade: int) -> float:
@@ -303,14 +351,17 @@ def make_queue_item(word_obj: Dict[str, Any], file_index: int, grade: float) -> 
     }
 
 
-# 🌟 הפונקציה מקבלת את הציונים הפרטיים של המשתמש
-def build_train_queue(training_ids: List[str], user_grades: Dict[str, float]) -> deque:
+# 🌟 הפונקציה מקבלת את הציונים הפרטיים של המשתמש ו-data_type
+def build_train_queue(training_ids: List[str], user_grades: Dict[str, float], data_type: DataType = DEFAULT_DATA_TYPE) -> deque:
     # בניית התור לפי ה-IDs שיש בזיכרון
     new_queue = deque()
     missing_ids = []
 
+    # 🌟 שימוש ב-word_index המתאים ל-data_type
+    current_word_index = word_index.get(data_type, {})
+
     for wid in training_ids:
-        entry = word_index.get(wid)
+        entry = current_word_index.get(wid)
         if not entry:
             missing_ids.append(wid)
             continue
@@ -321,7 +372,7 @@ def build_train_queue(training_ids: List[str], user_grades: Dict[str, float]) ->
         new_queue.append(make_queue_item(wobj, fidx, grade))
 
     if missing_ids:
-        print(f"Missing word IDs in word index: {missing_ids[:10]}")
+        print(f"Missing word IDs in word index ({data_type}): {missing_ids[:10]}")
 
     return new_queue
 
@@ -393,10 +444,15 @@ def get_user_session(user_uid: str) -> Dict[str, Any]:
     if last_name and last_name in session['in_memory_trainings']:
         session['current_training_name'] = last_name
         session['current_training_ids'] = session['in_memory_trainings'][last_name][:]
+        
+        # 🌟 קבלת data_type מה-training
+        training_data = fs_get_training(user_uid, last_name)
+        data_type = training_data.get('data_type', DEFAULT_DATA_TYPE) if training_data else DEFAULT_DATA_TYPE
+        session['current_training_data_type'] = data_type
 
-        # 🌟 בניית התור באמצעות הציונים הפרטיים של המשתמש
-        session['training_queue'] = build_train_queue(session['current_training_ids'], session['user_grades'])
-        print(f"Loading last training: {last_name}. Queue size: {len(session['training_queue'])}")
+        # 🌟 בניית התור באמצעות הציונים הפרטיים של המשתמש ו-data_type
+        session['training_queue'] = build_train_queue(session['current_training_ids'], session['user_grades'], data_type)
+        print(f"Loading last training: {last_name} (data_type: {data_type}). Queue size: {len(session['training_queue'])}")
 
     return session
 
@@ -478,12 +534,19 @@ def memorization_update_word(req: MemorizationUpdateWordRequest, background_task
     # 🌟 שליפת סשן המשתמש
     session = get_user_session(req.user_uid)
 
-    # 1) קורא את נתוני המילה הגלובליים
-    target_item_base = all_words_data_base.get(req.word_id)
-    if target_item_base is None:
+    # 1) קורא את נתוני המילה הגלובליים (כל ID ייחודי - מחפש ישירות באינדקס)
+    data_type = word_id_to_data_type.get(req.word_id)
+    if data_type is None:
         raise HTTPException(
             status_code=404,
             detail=f"Word id {req.word_id} not found in global RAM index."
+        )
+    
+    target_item_base = all_words_data_base.get(data_type, {}).get(req.word_id)
+    if target_item_base is None:
+        raise HTTPException(
+            status_code=404,
+            detail=f"Word id {req.word_id} not found in global RAM index for data_type {data_type}."
         )
 
     # 🌟 קורא את הציון הישן ממצב הזיכרון של המשתמש
@@ -518,7 +581,11 @@ def memorize_unit(req: MemorizeUnitRequest):
     requested_file_index = req.file_index
     unit_words = []
 
-    for wid, (wobj, fidx) in word_index.items():
+    data_type = req.data_type
+    # 🌟 שימוש ב-word_index המתאים ל-data_type
+    current_word_index = word_index.get(data_type, {})
+
+    for wid, (wobj, fidx) in current_word_index.items():
         if fidx == requested_file_index:
             # 🌟 קורא את הציון המעודכן ישירות ממצב המשתמש
             current_grade = session['user_grades'].get(wid, -1.0)
@@ -531,12 +598,13 @@ def memorize_unit(req: MemorizeUnitRequest):
     if not unit_words:
         raise HTTPException(
             status_code=404,
-            detail=f"No words found for file_index {requested_file_index}"
+            detail=f"No words found for file_index {requested_file_index} with data_type {data_type}"
         )
 
     return {
         "status": "ok",
         "file_index": requested_file_index,
+        "data_type": data_type,
         "word_count": len(unit_words),
         "words": unit_words
     }
@@ -553,13 +621,27 @@ def update_knowing_grade(req: UpdateKnowingGradeRequest, background_tasks: Backg
     session = get_user_session(req.user_uid)
     training_queue = session['training_queue']
     current_training_name = session['current_training_name']
-
-    # 1) קורא את נתוני המילה הגלובליים
-    target_item_base = all_words_data_base.get(req.word_id)
-    if target_item_base is None:
+    
+    # 🌟 קבלת data_type מה-training הנוכחי (או מהאינדקס הגלובלי - כל ID ייחודי)
+    data_type = word_id_to_data_type.get(req.word_id)
+    if data_type is None:
         raise HTTPException(
             status_code=404,
             detail=f"Word id {req.word_id} not found in global RAM index."
+        )
+    
+    # עדכון data_type בסשן אם יש training נוכחי
+    if current_training_name:
+        session['current_training_data_type'] = data_type
+
+    # 1) קורא את נתוני המילה הגלובליים לפי data_type
+    current_word_index = word_index.get(data_type, {})
+    target_item_base = all_words_data_base.get(data_type, {}).get(req.word_id)
+    
+    if target_item_base is None:
+        raise HTTPException(
+            status_code=404,
+            detail=f"Word id {req.word_id} not found in global RAM index for data_type {data_type}."
         )
 
     # 🌟 קורא ציון ישן ממצב המשתמש
@@ -588,7 +670,7 @@ def update_knowing_grade(req: UpdateKnowingGradeRequest, background_tasks: Backg
         appears_again = any(node.get("id") == req.word_id for node in training_queue)
 
         if not appears_again:
-            wobj, fidx = word_index.get(req.word_id, (None, None))
+            wobj, fidx = current_word_index.get(req.word_id, (None, None))
             if wobj and fidx:
                 # 🌟 שימוש ב-grade המעודכן של המשתמש ליצירת פריט התור
                 training_queue.append(make_queue_item(wobj, fidx, new_grade))
@@ -632,14 +714,18 @@ def create_training(req: CreateTrainingRequest):
     """
     # 🌟 שליפת סשן המשתמש
     session = get_user_session(req.user_uid)
+    data_type = req.data_type
 
-    # 1. יצירת רשימה של כל ה-IDs שיש לכלול לפי file_indexes (לוגיקה גלובלית נשארת)
-    eligible_word_ids = [wid for wid, (_, fidx) in word_index.items() if fidx in req.file_indexes]
+    # 🌟 שימוש ב-word_index המתאים ל-data_type
+    current_word_index = word_index.get(data_type, {})
+
+    # 1. יצירת רשימה של כל ה-IDs שיש לכלול לפי file_indexes
+    eligible_word_ids = [wid for wid, (_, fidx) in current_word_index.items() if fidx in req.file_indexes]
 
     if not eligible_word_ids:
         raise HTTPException(
             status_code=400,
-            detail=f"No words found for the specified file_indexes."
+            detail=f"No words found for the specified file_indexes with data_type {data_type}."
         )
 
     words_with_grades = []
@@ -670,11 +756,12 @@ def create_training(req: CreateTrainingRequest):
     sequence.extend(sequence2)
 
 
-    # 4. שמירת האימון ב-Firestore (מעביר user_uid)
+    # 4. שמירת האימון ב-Firestore (מעביר user_uid) עם data_type
     payload_data = {
         "original_ids": sequence,
         "removed_ids": [],
         "added_to_end": [],
+        "data_type": data_type,  # 🌟 שמירת data_type
     }
     fs_set_training(req.user_uid, req.training_name, payload_data)  # 🌟 פונקציה מעודכנת
 
@@ -683,9 +770,10 @@ def create_training(req: CreateTrainingRequest):
 
     session['current_training_name'] = req.training_name
     session['current_training_ids'] = sequence[:]
+    session['current_training_data_type'] = data_type  # 🌟 שמירת data_type בסשן
 
-    # 🌟 בניית תור באמצעות הציונים הפרטיים של המשתמש
-    session['training_queue'] = build_train_queue(session['current_training_ids'], session['user_grades'])
+    # 🌟 בניית תור באמצעות הציונים הפרטיים של המשתמש ו-data_type
+    session['training_queue'] = build_train_queue(session['current_training_ids'], session['user_grades'], data_type)
 
     # 6. עדכון האימון האחרון ב-Firestore (מעביר user_uid)
     fs_set_last_training(req.user_uid, req.training_name)  # 🌟 פונקציה מעודכנת
@@ -693,8 +781,11 @@ def create_training(req: CreateTrainingRequest):
     return {
         "status": "ok",
         "training_name": req.training_name,
+        "data_type": data_type,
         "num_unique_words": len(word_repeat),
         "total_items_in_sequence": len(sequence),
+        "word_count": len(word_repeat),
+        "last_modified": int(time.time()),
         "message": f"Training '{req.training_name}' created successfully."
     }
 
@@ -713,10 +804,14 @@ def load_training(req: LoadTrainingRequest):
     # 1) אם זה האימון הנוכחי – אין צורך לטעון מחדש
     if session['current_training_name'] == requested_name and session['current_training_ids']:
         training_ids = session['current_training_ids'][:]
+        data_type = session.get('current_training_data_type', DEFAULT_DATA_TYPE)
     else:
         # 2) קודם ננסה מהזיכרון הכללי של האימונים (כבר משוחזר)
         if requested_name in session['in_memory_trainings']:
             training_ids = session['in_memory_trainings'][requested_name][:]
+            # נסה לקחת data_type מ-training data
+            training_data = fs_get_training(req.user_uid, requested_name)
+            data_type = training_data.get('data_type', DEFAULT_DATA_TYPE) if training_data else DEFAULT_DATA_TYPE
         else:
             # 3) רק אם אין בזיכרון – נטען מ-Firestore ונשחזר (מעביר user_uid)
             training_data = fs_get_training(req.user_uid, requested_name)  # 🌟 פונקציה מעודכנת
@@ -730,6 +825,7 @@ def load_training(req: LoadTrainingRequest):
             original_ids = training_data.get('original_ids', [])
             removed_ids = training_data.get('removed_ids', [])
             added_to_end = training_data.get('added_to_end', [])
+            data_type = training_data.get('data_type', DEFAULT_DATA_TYPE)  # 🌟 קבלת data_type
 
             # שחזור התור
             training_ids = rebuild_queue_ids(original_ids, removed_ids, added_to_end)
@@ -740,10 +836,11 @@ def load_training(req: LoadTrainingRequest):
         # 4) עדכון "האימון הנוכחי" + שמירה כאימון אחרון
         session['current_training_name'] = requested_name
         session['current_training_ids'] = training_ids[:]
+        session['current_training_data_type'] = data_type  # 🌟 שמירת data_type בסשן
         fs_set_last_training(req.user_uid, requested_name)  # 🌟 פונקציה מעודכנת
 
-        # 🌟 בניית תור באמצעות הציונים הפרטיים של המשתמש
-        session['training_queue'] = build_train_queue(training_ids, session['user_grades'])
+        # 🌟 בניית תור באמצעות הציונים הפרטיים של המשתמש ו-data_type
+        session['training_queue'] = build_train_queue(training_ids, session['user_grades'], data_type)
 
     if not isinstance(training_ids, list) or len(training_ids) == 0:
         return {
@@ -769,6 +866,7 @@ def load_training(req: LoadTrainingRequest):
     return {
         "status": "ok",
         "training_name": requested_name,
+        "data_type": data_type,
         "training_complete": False,
         "queue_size_remaining": len(session['training_queue']),
         "first_word": first_item
@@ -790,10 +888,14 @@ def load_training_full(req: LoadTrainingRequest):
     # 1) אם זה האימון הנוכחי – אין צורך לטעון מחדש
     if session['current_training_name'] == requested_name and session['current_training_ids']:
         training_ids = session['current_training_ids'][:]
+        data_type = session.get('current_training_data_type', DEFAULT_DATA_TYPE)
     else:
         # 2) קודם ננסה מהזיכרון הכללי של האימונים (כבר משוחזר)
         if requested_name in session['in_memory_trainings']:
             training_ids = session['in_memory_trainings'][requested_name][:]
+            # נסה לקחת data_type מ-training data
+            training_data = fs_get_training(req.user_uid, requested_name)
+            data_type = training_data.get('data_type', DEFAULT_DATA_TYPE) if training_data else DEFAULT_DATA_TYPE
         else:
             # 3) רק אם אין בזיכרון – נטען מ-Firestore ונשחזר (מעביר user_uid)
             training_data = fs_get_training(req.user_uid, requested_name)  # 🌟 פונקציה מעודכנת
@@ -807,6 +909,7 @@ def load_training_full(req: LoadTrainingRequest):
             original_ids = training_data.get('original_ids', [])
             removed_ids = training_data.get('removed_ids', [])
             added_to_end = training_data.get('added_to_end', [])
+            data_type = training_data.get('data_type', DEFAULT_DATA_TYPE)  # 🌟 קבלת data_type
 
             # שחזור התור
             training_ids = rebuild_queue_ids(original_ids, removed_ids, added_to_end)
@@ -817,12 +920,14 @@ def load_training_full(req: LoadTrainingRequest):
         # 4) עדכון "האימון הנוכחי" + שמירה כאימון אחרון
         session['current_training_name'] = requested_name
         session['current_training_ids'] = training_ids[:]
+        session['current_training_data_type'] = data_type  # 🌟 שמירת data_type בסשן
         fs_set_last_training(req.user_uid, requested_name)  # 🌟 פונקציה מעודכנת
 
     if not isinstance(training_ids, list) or len(training_ids) == 0:
         return {
             "status": "ok",
             "training_name": requested_name,
+            "data_type": data_type,
             "training_complete": True,
             "words": [],
             "user_grades": {},
@@ -833,8 +938,11 @@ def load_training_full(req: LoadTrainingRequest):
     all_words = []
     user_grades_dict = {}
     
+    # 🌟 שימוש ב-word_index המתאים ל-data_type
+    current_word_index = word_index.get(data_type, {})
+    
     for wid in training_ids:
-        entry = word_index.get(wid)
+        entry = current_word_index.get(wid)
         if not entry:
             continue
 
@@ -849,6 +957,7 @@ def load_training_full(req: LoadTrainingRequest):
     return {
         "status": "ok",
         "training_name": requested_name,
+        "data_type": data_type,
         "training_complete": False,
         "words": all_words,
         "user_grades": user_grades_dict,
@@ -915,9 +1024,14 @@ def list_trainings(user_uid: str):
 
     # 🌟 קריאה למצב הזיכרון הפרטי של המשתמש
     for tname, ids in session['in_memory_trainings'].items():
+        # 🌟 קבלת data_type מה-training data
+        training_data = fs_get_training(user_uid, tname)
+        data_type = training_data.get('data_type', DEFAULT_DATA_TYPE) if training_data else DEFAULT_DATA_TYPE
+        
         trainings.append({
             "name": tname,
             "word_count": len(ids),
+            "data_type": data_type,
             "source": "Firestore"
         })
     return {"status": "ok", "trainings": trainings}
