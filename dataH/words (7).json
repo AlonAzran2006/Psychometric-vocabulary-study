@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "w_11677",
+    "word": "אֶבְיוֹן",
+    "meaning": "עני, חסר-כל",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11678",
+    "word": "אִבֵּק",
+    "meaning": "פיזר אבקה על משהו",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11679",
+    "word": "אִבֵּק",
+    "meaning": "ניקה מאבק, הוציא אבק",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11680",
+    "word": "אוּרִים וְתֻמִּים",
+    "meaning": "מומחה, מקור מוסמך שאין לערער עליו, סמכות עליונה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11681",
+    "word": "אֶזוֹטֶרִי",
+    "meaning": "שולי, חסר עניין לציבור",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11682",
+    "word": "אֶזוֹטֶרִי",
+    "meaning": "פנימי, כמוס, ידוע רק לחוג מצומצם",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11683",
+    "word": "אִילוּחַ",
+    "meaning": "זיהום, מוגלה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11684",
+    "word": "אִינְטֶגְרָלִי",
+    "meaning": "שלם, שכל חלקיו נמצאים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11685",
+    "word": "אִינְטֶגְרָלִי",
+    "meaning": "חלק חיוני ובלתי נפרד, שאי-אפשר בלעדיו",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11686",
+    "word": "אֶפִּילוֹג",
+    "meaning": "סוף, סיום",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11687",
+    "word": "אֶפִּילוֹג",
+    "meaning": "קטע קצר שנוסף לספר לאחר סיומו",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11688",
+    "word": "אִצְטְלָה",
+    "meaning": "גלימה, בגד עליון רחב שנלבש לרוב על ידי אנשים מכובדים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11689",
+    "word": "אִצְטְלָה",
+    "meaning": "כבוד, גדולה או משרה חשובה שהם בדרך כלל מדומים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11690",
+    "word": "אִשְׁרוּר",
+    "meaning": "אישור סופי",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11691",
+    "word": "אֶתְנָן",
+    "meaning": "במקור: שכר יצאנית. בהשאלה: שכר בתמורה לדבר לא מוסרי, מתנה או טובת הנאה בכדי להשיג רווח לא הוגן",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11692",
+    "word": "בְּאִיבּוֹ",
+    "meaning": "בראשית דרכו, בצעירותו (נקטף באיבו - מת בגיל צעיר)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11693",
+    "word": "בְּדוּתָה",
+    "meaning": "שקר, דבר בדוי",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11694",
+    "word": "בְּדַיָה",
+    "meaning": "שקר (בָּדָה - המציא)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11695",
+    "word": "בּוּלְמוּס",
+    "meaning": "רעב חזק",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11696",
+    "word": "בּוּלְמוּס",
+    "meaning": "תאווה, חשק עז",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11697",
+    "word": "בַּחֲטָף",
+    "meaning": "בחופזה, במהירות",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11698",
+    "word": "בַּחֲטָף",
+    "meaning": "ללא סימן מוקדם, לפתע",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11699",
+    "word": "בִּיגַמְיָה",
+    "meaning": "נשואי גבר אחד לשתי נשים בו זמנית, נישואים כפולים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11700",
+    "word": "בָּלוּם",
+    "meaning": "סתום, אטום, סגור",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11701",
+    "word": "בָּלוּם",
+    "meaning": "מלא עד הסוף, עמוס, עשיר ב-",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11702",
+    "word": "בַּרְדָס",
+    "meaning": "כיסוי ראש המחובר אל הבגד מאחור, \"קפוצ'ון\"",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11703",
+    "word": "גָחוֹן",
+    "meaning": "בטן (בעיקר של בעלי חיים, מקובל גם בכלי רכב, גחון הטנק - החלק התחתון של הטנק)",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11704",
+    "word": "גִילְדָה",
+    "meaning": "קבוצת אנשים בעלי אינטרס משותף",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11705",
+    "word": "דְּבוּקָּה",
+    "meaning": "צרור פצצות המשוגרות יחדיו",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11706",
+    "word": "דְּבוּקָּה",
+    "meaning": "קבוצת צנחנים הצונחים יחדיו",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11707",
+    "word": "דְּבֵלָה",
+    "meaning": "גוש של תאנים מיובשות",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11708",
+    "word": "דָּגָן",
+    "meaning": "כל תבואת השדה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11709",
+    "word": "דוּאָלִי",
+    "meaning": "בעל שני צדדים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11710",
+    "word": "דּוֹרוֹן",
+    "meaning": "מתנה",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11711",
+    "word": "דֶּחִי",
+    "meaning": "כישלון, מעידה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11712",
+    "word": "דָּלוּחַ",
+    "meaning": "לא צלול, עכור",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11713",
+    "word": "דִּמְדּוּמִים",
+    "meaning": "אור חיוור שניתן לראות לאחר השקיעה",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11714",
+    "word": "דִמְעוֹת שָׁלִישׁ",
+    "meaning": "בכי גדול, בדמעות ובתחנונים רבים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11715",
+    "word": "דֹּפִי",
+    "meaning": "פגם, ליקוי",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11716",
+    "word": "דַפְתָר",
+    "meaning": "פנקס, מחברת",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11717",
+    "word": "דֵרָאוֹן",
+    "meaning": "בושה, חרפה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11718",
+    "word": "דַרְגָש",
+    "meaning": "שרפרף, כסא נמוך, ספסל נמוך לשכיבה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11719",
+    "word": "הָבִיל",
+    "meaning": "ספוג הבל, מלא אדי מים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11720",
+    "word": "הִבְלִיעַ",
+    "meaning": "הסתיר דבר בתוך דבר, הכמין",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11721",
+    "word": "הִבְלִיעַ",
+    "meaning": "אמר דברים בצורה מרומזת",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11722",
+    "word": "הָגִיג",
+    "meaning": "מחשבה, הרהור, שרעפים, חקרי לב",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11723",
+    "word": "הִגִּיהַּ",
+    "meaning": "תיקן שגיאות בטקסט כתוב",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11724",
+    "word": "הִגְלִיד",
+    "meaning": "התאחה, נרפא",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11725",
+    "word": "הִדִּיר",
+    "meaning": "מנע, שלל, אסר",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11726",
+    "word": "הַזָחָה",
+    "meaning": "הרווח שבתחילת פיסקה חדשה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11727",
+    "word": "הֵזִיחַ",
+    "meaning": "הזיז משהו ממקום למקום, הסיט",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11728",
+    "word": "הִילֵּךְ",
+    "meaning": "שוטט, הלך לאיטו ללא מטרה מסוימת",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11729",
+    "word": "הִכָּה גַּלִּים",
+    "meaning": "הביא לשינוי משמעותי בחשיבה המקובלת",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11730",
+    "word": "הִכָּה גַּלִּים",
+    "meaning": "עורר עניין, התפרסם",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11731",
+    "word": "הִכָּה שׁוֹרֵש",
+    "meaning": "נעשה נפוץ ורווח, התקבל",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11732",
+    "word": "הֶעֱתִיק",
+    "meaning": "הזיז, העביר ממקום למקום",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11733",
+    "word": "הֶקְהִיל",
+    "meaning": "גרם לאנשים להתאסף, גם להם להפוך לקהל",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11734",
+    "word": "הֶרֶף",
+    "meaning": "הפסק! די! (ללא הרף - ללא הפסקה, כל הזמן)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11735",
+    "word": "הִתִּיק",
+    "meaning": "הזיז, העביר ממקום למקום, הסיט",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11736",
+    "word": "זָב",
+    "meaning": "מטפטף, נוזל",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11737",
+    "word": "זָב חֹטֶם",
+    "meaning": "אדם פחות ערך",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11738",
+    "word": "זָב חֹטֶם",
+    "meaning": "כינוי גנאי לאדם חסר ניסיון, צעיר",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11739",
+    "word": "זֶבֶד",
+    "meaning": "מתנה, שי",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11740",
+    "word": "זוֹט",
+    "meaning": "קרקעית, תחתית של כלי",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11741",
+    "word": "זוּטָא",
+    "meaning": "קטן מאוד, זעיר, פעוט, שולי",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11742",
+    "word": "זוּטוֹת",
+    "meaning": "דברים של מה בכך, אפסי, זניח, חסר משמעות",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11743",
+    "word": "זוּלָת",
+    "meaning": "חוץ מ-, פרט ל-",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11744",
+    "word": "זוּלָת",
+    "meaning": "אדם או בני אדם, שאר האנשים",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11745",
+    "word": "זוּלָתָן",
+    "meaning": "אדם המעדיף את טובת האחר על פני טובתו שלו",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11746",
+    "word": "זָח",
+    "meaning": "זז, זע, נע",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11747",
+    "word": "חֵבֶל",
+    "meaning": "ייסורים, מכאוב, בציפייה לדבר חיובי (חבלי לידה)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11748",
+    "word": "חֶבֶל",
+    "meaning": "אזור, מחוז",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11749",
+    "word": "חֲבַרְבָּר",
+    "meaning": "בעל חברבורות, מנומר",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11750",
+    "word": "חָג",
+    "meaning": "נע במעגלים סביב דבר מה, הסתובב",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11751",
+    "word": "חָג",
+    "meaning": "צייר עיגול (מחוגה - מכשיר לסרטוט מעגל)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11752",
+    "word": "חוֹזֵר",
+    "meaning": "הודעה המופצת ברבים, תצהיר",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11753",
+    "word": "חֲטָף",
+    "meaning": "מהירות גבוהה (מבט חטוף - מבט מהיר)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11754",
+    "word": "חִיגֵּר",
+    "meaning": "בעל מום ברגליו, צולע",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11755",
+    "word": "חֲכִירָה",
+    "meaning": "השכרת אדמה או נכס כלשהו למשך תקופת זמן ידוע מראש בתמורה לתשלום כספי",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11756",
+    "word": "חֵלְכָּאִי",
+    "meaning": "עני, אדם חלש ועלוב",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11757",
+    "word": "חָרֵב",
+    "meaning": "הרוס, שומם, נטוש",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11758",
+    "word": "חָרֵב",
+    "meaning": "יבש",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11759",
+    "word": "חָרָבָה",
+    "meaning": "אדמה שאינה מכוסה מים, יבשה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11760",
+    "word": "טַבּוּלָה רָאסָה",
+    "meaning": "אינו יודע דבר בתחום מסוים, חסר דעה בנושא מסוים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11761",
+    "word": "יוֹקֵב",
+    "meaning": "בעל יקב",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11762",
+    "word": "יוֹרֶה",
+    "meaning": "הגשם הראשון",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11763",
+    "word": "יַנוּקָא",
+    "meaning": "תינוק",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11764",
+    "word": "יַעֲרָה",
+    "meaning": "טבלת דונג שהדבורים בנו בה תאים ומילאו אותה בדבש",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11765",
+    "word": "כְּסִיל",
+    "meaning": "טיפש, שוטה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11766",
+    "word": "כְּפִיר",
+    "meaning": "אריה צעיר",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11767",
+    "word": "כָּפַן",
+    "meaning": "רעב",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11768",
+    "word": "כָּפַת",
+    "meaning": "קשר, כבל",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11769",
+    "word": "לַאֲשוּרוֹ",
+    "meaning": "כהלכתו, במדויק",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11770",
+    "word": "לָבִיא",
+    "meaning": "אריה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11771",
+    "word": "לִבֵּן",
+    "meaning": "ברר סוגיה מסוימת כדי להגיע לפתרון או למסקנה",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11772",
+    "word": "לִבֵּן",
+    "meaning": "הלהטת מתכת עד שצבעה נהיה ללבן",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11773",
+    "word": "לִפְרָקִים",
+    "meaning": "מדי פעם, מעת לעת",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11774",
+    "word": "מַאְפֵּלְיָה",
+    "meaning": "חושך מוחלט, אפלה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11775",
+    "word": "מַאְפֵּלְיָה",
+    "meaning": "מקום משכנו של הרשע",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11776",
+    "word": "מִבְדוֹק",
+    "meaning": "מבנה מיוחד המיועד לתיקון כלי שייט",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11777",
+    "word": "מְבוּזָּר",
+    "meaning": "מפוזר",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11778",
+    "word": "מָגוֹר",
+    "meaning": "פחד, אימה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11779",
+    "word": "מִגֵּר",
+    "meaning": "הביס את האויב, ניצח",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11780",
+    "word": "מִגֵּר",
+    "meaning": "השמיד משהו לחלוטין, חיסל",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11781",
+    "word": "מְהֻקְצָע",
+    "meaning": "מלוטש, עבר החלקה בעזרת מקצועה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11782",
+    "word": "מְהֻקְצָע",
+    "meaning": "מסוגנן, אלגנטי",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11783",
+    "word": "מוּבָאָה",
+    "meaning": "ציטוט",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11784",
+    "word": "מוֹרַג",
+    "meaning": "כלי דַּיִשׁ קדום (דיש - הפרדת גרגירי תבואה)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11785",
+    "word": "מָזוֹר",
+    "meaning": "מרפא, תרופה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11786",
+    "word": "מָזוֹר",
+    "meaning": "חולי, מכאוב",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11787",
+    "word": "מִזְקָקָה",
+    "meaning": "מקום לזיקוק ולהכנת משקאות חריפים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11788",
+    "word": "מַחְבּוֹש",
+    "meaning": "עונש של כליאה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11789",
+    "word": "מַחְבֵּצָה",
+    "meaning": "כלי מיוחד ששימש להכנת מוצרי חלב כמו גבינה או חמאה",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11790",
+    "word": "מְחֻטָּט",
+    "meaning": "מלא בצלקות שנגרמו ממחלת עור כלשהי",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11791",
+    "word": "מָךְ",
+    "meaning": "עני",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11792",
+    "word": "מָלֵא תְּכוּנָה",
+    "meaning": "שוקק חיים, מלא פעילות",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11793",
+    "word": "מֵלִיץ",
+    "meaning": "מתורגמן",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11794",
+    "word": "מֵלִיץ",
+    "meaning": "מי שממליץ על מישהו ומבר בזכותו",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11795",
+    "word": "מַנְפֵּטָה",
+    "meaning": "מכונה מיוחדת המשמשת להפרדת סיבי הכותנה מהזרעים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11796",
+    "word": "מְסוֹאָב",
+    "meaning": "מושחת מוסרית, מנוון",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11797",
+    "word": "מְסוֹאָב",
+    "meaning": "מלוכלך מאוד, מטונף",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11798",
+    "word": "מִסּוּך",
+    "meaning": "יצירת הפרדה, יצירת חציצה",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11799",
+    "word": "מִסּוּך",
+    "meaning": "שיבוש והחלשת שדות חשמליים",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11800",
+    "word": "מָסַךְ",
+    "meaning": "מזג, ערבב משקה במשקה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11801",
+    "word": "מַעֲרֶה הַיַּעַר",
+    "meaning": "אזור נטול עצים ביער, קרחת היער",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11802",
+    "word": "מַפְסֶלֶת",
+    "meaning": "כלי עבודה המשמש לסיתות אבן או גילוף עץ, אזמל",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11803",
+    "word": "מַק",
+    "meaning": "ריקבון",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11804",
+    "word": "מַרְזֵחַ",
+    "meaning": "משתה (בית מרזח - פאב)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11805",
+    "word": "מֹרֶך לֵב",
+    "meaning": "הרגשת פחד וזעזוע, בעתה, אימה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11806",
+    "word": "מַרְנִין",
+    "meaning": "משמח",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11807",
+    "word": "מַרְנִין",
+    "meaning": "מהנה ביותר, נעים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11808",
+    "word": "מִשְׂגָּב",
+    "meaning": "מקום גבוה שמשמש כמחסה, מצודה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11809",
+    "word": "מִשְׁוֶרֶת",
+    "meaning": "טבעת לרגל בצד האוכף",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11810",
+    "word": "מַשְׂטֵמָה",
+    "meaning": "איבה, שנאה עזה",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11811",
+    "word": "נֹאד",
+    "meaning": "שק עור לנוזלים, מימיה",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11812",
+    "word": "נָאוֹר",
+    "meaning": "מתורבת, משכיל",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11813",
+    "word": "נֶאֱלָם",
+    "meaning": "השתתק, נדם",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11814",
+    "word": "נְאָצָה",
+    "meaning": "גידוף, דברי בלע",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11815",
+    "word": "נֶבֶט",
+    "meaning": "צמח בראשית צמיחתו",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11816",
+    "word": "נִבְעָר",
+    "meaning": "בּוּר, חסר השכלה",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11817",
+    "word": "נָבַר",
+    "meaning": "חיטט, פשפש",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11818",
+    "word": "נִגַר",
+    "meaning": "נזל, זרם",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11819",
+    "word": "נָהָה",
+    "meaning": "רצה מאוד, השתוקק",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11820",
+    "word": "נְהִי",
+    "meaning": "בכי מר, יללה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11821",
+    "word": "נוֹאָל",
+    "meaning": "טיפשי, אווילי",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11822",
+    "word": "נוֹקֵד",
+    "meaning": "מגדל צאן, רועה צאן",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11823",
+    "word": "נוֹשֶה",
+    "meaning": "מלווה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11824",
+    "word": "נְחִירָה",
+    "meaning": "המתת בעלי חיים (בדרך כלל חזיר) על ידי דקירה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11825",
+    "word": "נִיר",
+    "meaning": "אחו, שדה שנחרש",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11826",
+    "word": "נַכְלוּלִי",
+    "meaning": "רמאי, נוכל, מעורפל בכוונותיו",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11827",
+    "word": "נָפָה",
+    "meaning": "כלי בעל נקבים קטנים לניפוי קמח, מסננת",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11828",
+    "word": "נָפָה",
+    "meaning": "אזור, אחוז",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11830",
+    "word": "נֵצֶר",
+    "meaning": "ענף רך הצומח מהשורש",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11831",
+    "word": "נֵצֶר",
+    "meaning": "בן, צאצא",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11829",
+    "word": "נָצַר",
+    "meaning": "שמר, הגן",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11832",
+    "word": "נָשִׂיא",
+    "meaning": "ענן נושא גשם",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11833",
+    "word": "נֶשֶׁךְ",
+    "meaning": "ריבית",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11834",
+    "word": "נִשְפֶּה",
+    "meaning": "חלק ותלול",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11835",
+    "word": "סַד",
+    "meaning": "מכשיר עינוי קדום",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11836",
+    "word": "סַד",
+    "meaning": "לוח מיוחד המשמש לקיבוע ותמיכה באיבר פצוע",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11837",
+    "word": "סַהַר",
+    "meaning": "ירח, לבנה",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11838",
+    "word": "סְחִי",
+    "meaning": "אשפה, זוהמה, לכלוך",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11839",
+    "word": "סֵיפָא",
+    "meaning": "סוף, החלק האחרון (להיפך: רֵישָא)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11840",
+    "word": "סְפּוֹרָדי",
+    "meaning": "בלתי סדיר, אקראי, ללא חוקיות קבועה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11841",
+    "word": "סְפָר",
+    "meaning": "גבול, קצה, רצועת אדמה החוצצת בין מדינות (ישובי ספר - ישובי גבול)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11842",
+    "word": "סְתַגְּלָן",
+    "meaning": "מי שמתאים עצמו בקלות למצבים חדשים, אדפטיבי",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11843",
+    "word": "עָב",
+    "meaning": "ענן",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11844",
+    "word": "עֲבוֹתוֹת",
+    "meaning": "חבלים עבים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11845",
+    "word": "עֲזוּבָה",
+    "meaning": "מצב של הרס והזנחה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11846",
+    "word": "עֲלוּמִים",
+    "meaning": "ימי הנעורים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11847",
+    "word": "עֲלָטָה",
+    "meaning": "חושך, אפלה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11848",
+    "word": "עָשָׂה נְפָשׁוֹת",
+    "meaning": "גייס תומכים למשהו",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11849",
+    "word": "פּוּלְמוּס",
+    "meaning": "ויכוח, מחלוקת",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11850",
+    "word": "פּוּר",
+    "meaning": "מזל, גורל",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11851",
+    "word": "פּוּרְתָּא",
+    "meaning": "מעט, קצת (נחמה פּוּרְתָּא - נחמה מועטה)",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11852",
+    "word": "פִּיד",
+    "meaning": "אסון, צרה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11853",
+    "word": "פִּיל לָבָן",
+    "meaning": "כינוי לפרויקט ענק שהושקע בו רבות אך אין בו שימוש",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11854",
+    "word": "פִּילֵּל",
+    "meaning": "ציפה, קיווה",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11855",
+    "word": "פִּיסֵח",
+    "meaning": "צולע",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11856",
+    "word": "פַּרְגּוֹד",
+    "meaning": "סוג של מחיצה ניידת",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11857",
+    "word": "פְּרוֹלוֹג",
+    "meaning": "מבוא, הקדמה (להיפך: אפילוג)",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11858",
+    "word": "פִּתְחוֹן פֶּה",
+    "meaning": "אפשרות לומר דבר מה, הזדמנות לטעון משהו",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11859",
+    "word": "צְבִיר",
+    "meaning": "קבוצה (צביר עננים - קבוצת עננים)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11860",
+    "word": "צְדִיָּה",
+    "meaning": "כוונה רעה, זדון",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11861",
+    "word": "צַדְקָנוּת",
+    "meaning": "תכונתו של הצדקן, גלגול עיניים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11862",
+    "word": "צָמִיג",
+    "meaning": "סמיך, דביק",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11863",
+    "word": "צִקְצוּק",
+    "meaning": "קול הנוצר על ידי הנעת הלשון בין השיניים לחניכיים (לרוב מציין חוסר אישור או שלילה)",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11864",
+    "word": "צָרוּף",
+    "meaning": "מזוקק, ברור וטהור (תענוג צרוף - הנאה מוחלטת)",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11865",
+    "word": "צָרַר",
+    "meaning": "התנכל, התנהג באיבה כלפי מישהו, היה אויבו (צר - אויב)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11866",
+    "word": "צָרַר",
+    "meaning": "קשר יחד לחבילה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11867",
+    "word": "קְבָסְתָּן",
+    "meaning": "טרחן, מישהו שמעורר בחילה וגועל",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11868",
+    "word": "קוֹבַע",
+    "meaning": "קסדה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11869",
+    "word": "קוֹלָן",
+    "meaning": "מכשיר המשמש לכיוון כלי נגינה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11870",
+    "word": "קִטְרֶג",
+    "meaning": "האשים, הביא לדין",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11871",
+    "word": "קִיקְיוֹנִי",
+    "meaning": "זמני, ארעי",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11872",
+    "word": "קָלוֹן",
+    "meaning": "בושה, חרפה (אות קלון - סימן גנאי)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11873",
+    "word": "קְלוֹקֵל",
+    "meaning": "שטיבו גרוע, איכותו ירודה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11874",
+    "word": "קִלֵּס",
+    "meaning": "הילל, שיבח",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11875",
+    "word": "קִלֵּס",
+    "meaning": "קִילֵל, לעג, השפיל, ביזה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11876",
+    "word": "קַנְטְרָן",
+    "meaning": "סכסכן, נוהג להתגרות ולהרגיז",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11877",
+    "word": "קִנְיָן",
+    "meaning": "רכוש, נכס",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11878",
+    "word": "קַפֶּנְדַרְיָא / קַפַּנְדְּרִיָּה",
+    "meaning": "דרך קיצור",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11879",
+    "word": "קַרְדּוֹם",
+    "meaning": "מכשיר לחטיבת עצים, גרזן",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11880",
+    "word": "קַרְפִּיף",
+    "meaning": "שטח מגודר",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11881",
+    "word": "רְבָב",
+    "meaning": "כתם, פגם, מום מוסרי (ללא רבב - מושלם)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11882",
+    "word": "רָבִיד",
+    "meaning": "שרשרת לצוואר, תליון",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11883",
+    "word": "רָגַן",
+    "meaning": "התלונן",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11884",
+    "word": "רַהַב",
+    "meaning": "התרברבות, גאווה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11885",
+    "word": "רָהוּי",
+    "meaning": "הססני, חסר בטחון",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11886",
+    "word": "רֵישָא",
+    "meaning": "התחלה, החלק הראשון (להיפך: סֵיפָא)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11887",
+    "word": "רַכָּב",
+    "meaning": "עֶגְלוֹן, \"נהג\" של כרכרה",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11888",
+    "word": "רִנֵּן",
+    "meaning": "שר",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11889",
+    "word": "רִנֵּן",
+    "meaning": "ריכל",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11890",
+    "word": "רַפְרֶפֶת",
+    "meaning": "סוג של קינוח אוורירי, פודינג",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11891",
+    "word": "רָצַץ",
+    "meaning": "שבר, ריסק, ניפץ",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11892",
+    "word": "רָקַח",
+    "meaning": "המציא (סיפור לא אמיתי), הכין תכנית (בהקשר שלילי)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11893",
+    "word": "רָקַח",
+    "meaning": "הכין תרופה או ריבה (מרקחת - ריבה, מרקחה - בֹּשֶׂם)",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11894",
+    "word": "רָש",
+    "meaning": "עני",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11895",
+    "word": "שִׁגָיוֹן",
+    "meaning": "מחשבה שאינה מרפה",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11896",
+    "word": "שִׁהוּי",
+    "meaning": "עיכוב, איחור",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11897",
+    "word": "שׁוֹחֵר",
+    "meaning": "חובב, מתעניין ב-, (למשל: שוחר מדע)",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11898",
+    "word": "שׁוֹחֵר",
+    "meaning": "נאמן, ידיד (למשל: שוחר שלום)",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11899",
+    "word": "שׁוֹעַ",
+    "meaning": "בעל הון, עשיר",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11900",
+    "word": "שִׁוֵּעַ",
+    "meaning": "היה זקוק למשהו נואשות",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11901",
+    "word": "שִׁוֵּעַ",
+    "meaning": "התחנן, זעק",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11902",
+    "word": "שָׁזַף",
+    "meaning": "שרף, צרב",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11903",
+    "word": "שָׁזַף",
+    "meaning": "ראה, הביט",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11904",
+    "word": "שָׁחוּחַ",
+    "meaning": "כפוף",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11905",
+    "word": "שָׁחוּן",
+    "meaning": "חם ויבש",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11906",
+    "word": "שַׁחַל",
+    "meaning": "אריה צעיר",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11907",
+    "word": "שִׁיפּוּי",
+    "meaning": "תשלום כספי (לרוב כפיצוי)",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11908",
+    "word": "שִׁיפּוּי",
+    "meaning": "ליטוש והחלקה של דבר מה בעזרת שופין, השחזה",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11909",
+    "word": "שְׂכַלְתָן",
+    "meaning": "אדם שחיי את חייו על פי השכל וההיגיון במקום רגשות או אמונות, רציונליסט",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11910",
+    "word": "שָׁנָה",
+    "meaning": "עשה משהו שוב ושוב, חזר על פעולה מסוימת",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11911",
+    "word": "שָׁנָה",
+    "meaning": "למד, שינן",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11912",
+    "word": "שְׁנִיוֹנִי",
+    "meaning": "בעל חשיבות פחותה מעט מדבר אחר שהוא החשוב ביותר, משני",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11913",
+    "word": "שִׁסֵּעַ",
+    "meaning": "קָּרָע (שִׁסֵּעַ את דברי חברו - קטע את דברי חברו)",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11914",
+    "word": "שַׁעַל",
+    "meaning": "פסיעה, צעד",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11915",
+    "word": "שְׁתַדְלָן",
+    "meaning": "מי שמנסה לשכנע אנשים לעשות דבר מה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11916",
+    "word": "תַּאֲנִיָּה וַאֲנִיָּה",
+    "meaning": "בכי מר על אסון",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11917",
+    "word": "תּוֹעַמְלָן",
+    "meaning": "מי שעוסק בתעמולה, מי שמפיץ מסרים ברבים",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11918",
+    "word": "תִּחוּחַ",
+    "meaning": "פירור האדמה בעזרת כלי כלשהו",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11919",
+    "word": "תִּיתוֹרָה / תִּיתוֹרֶת",
+    "meaning": "שולי הכובע, שוליים בולטים של חפץ כלשהו",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11920",
+    "word": "תַּכְרִיכִים",
+    "meaning": "בדים לבנים בהם עוטפים את המתים לפני הקבורה",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11921",
+    "word": "תִּכְתּוֹבֶת",
+    "meaning": "השם לכלל המכתבים שנשלחו מאיש לרעהו",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11922",
+    "word": "תִּכְתּוֹבֶת",
+    "meaning": "החלפת מכתבים הדדית בין אדם למוסד כלשהו",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11923",
+    "word": "תִּלֵי תִּילִים",
+    "meaning": "שפע רב",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11924",
+    "word": "תְּמוּרָה",
+    "meaning": "שינוי, מפנה, תהפוכות",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11925",
+    "word": "תַּמְלִיל",
+    "meaning": "טקסט",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11926",
+    "word": "תְּנוּבָה",
+    "meaning": "יבול, תוצרת חקלאית",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11927",
+    "word": "תְּעוּדַת עֲנִיוּת",
+    "meaning": "עדות לחוסר יכולת",
+    "choice": "yes",
+    "choice_mark": "✔"
+  },
+  {
+    "id": "w_11929",
+    "word": "תִּעֵל",
+    "meaning": "חפר תעלות לניקוז או השקיה",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11930",
+    "word": "תִּעֵל",
+    "meaning": "הפנה לאפיק מסוים, כִּיוֵן",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11928",
+    "word": "תַּעַל",
+    "meaning": "רפואה",
+    "choice": "no",
+    "choice_mark": "✖"
+  },
+  {
+    "id": "w_11931",
+    "word": "תַּשׁ",
+    "meaning": "הפך לחלש, התעייף",
+    "choice": "maybe",
+    "choice_mark": "?"
+  },
+  {
+    "id": "w_11932",
+    "word": "תַּשְׁלִיל",
+    "meaning": "סרט צילום ממנו מפיקים את התמונות, נגטיב",
+    "choice": "no",
+    "choice_mark": "✖"
+  }
+]

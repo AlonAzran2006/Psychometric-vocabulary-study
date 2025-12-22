@@ -1,0 +1,1311 @@
+[
+  {
+    "id": "w_12311",
+    "word": "אַבְנֵט",
+    "meaning": "חגורה רחבה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12312",
+    "word": "אַבְקָן",
+    "meaning": "חלק בפרח המכיל אבקה המשמשת להפריית פרח",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12313",
+    "word": "אַבְרֵך",
+    "meaning": "כינוי לאיש צעיר, כיום נפוץ ככינוי לבחור הלומד בישיבה (אַבְרֵך - אָב בַּחָכְמָה רַךְ בְּשָׁנִים)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12314",
+    "word": "אוֹטוֹבִּיוֹגְרַפְיָה",
+    "meaning": "תולדות אדם הכתובות בידי עצמו",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12315",
+    "word": "אוֹמְנִיפּוֹטֶנְטִי",
+    "meaning": "כל-יכול",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12317",
+    "word": "אָזַר עֹז / כֹּחַ / אֹמֶץ",
+    "meaning": "הֵעֵז (אזר - התמלא)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12318",
+    "word": "אָחַז אֶת הַשּׁוֹר בְּקַרְנָיו",
+    "meaning": "פנה מיד לטפל בעניין",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12319",
+    "word": "אִידֵאָל",
+    "meaning": "שיא השלמות, דבר שרוצים להשיגו",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12320",
+    "word": "אִיּוּשׁ",
+    "meaning": "הצבת אנשים במקום מסוים על מנת שיבצעו מטלה מסוימת",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12321",
+    "word": "אִינְהֶרֶנְטִי",
+    "meaning": "פנימי, טבוע (בתוך)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12322",
+    "word": "אֵיפָה",
+    "meaning": "מידת נפח עתיקה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12323",
+    "word": "אִישׁ מָדוֹן / מְדָנִים",
+    "meaning": "סכסכן",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12324",
+    "word": "אִכּוּל",
+    "meaning": "שריפה, בערה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12325",
+    "word": "אֲנֶקְדּוֹטָה",
+    "meaning": "בדיחה, קוריוז",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12326",
+    "word": "אֲסוּפָה",
+    "meaning": "מקבץ מאמרים בנושא מסוים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12327",
+    "word": "אַפְסָר",
+    "meaning": "רסן, רתמה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12328",
+    "word": "אָקוּטִי",
+    "meaning": "מהותי, חריף, חמוּר",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12329",
+    "word": "אָרִיחַ",
+    "meaning": "לוח אבן בעל צורה מלבנית המשמש לכיסוי הרצפה או הקירות, מִרְצֶפֶת, בלטה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12330",
+    "word": "אָרִיס",
+    "meaning": "אדם המקבל לידיו חזקה על אדמה ומעבד אותה בתמורה לאחוז מסוים מהיבול",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12316",
+    "word": "אָשְׁיוֹת",
+    "meaning": "מסד, בסיס, יסוד",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12331",
+    "word": "אֶשְׁכָּר",
+    "meaning": "מתנה, שי",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12332",
+    "word": "בְּחִישָׁה",
+    "meaning": "ערבוב",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12333",
+    "word": "בִּיכֵּר",
+    "meaning": "העדיף",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12334",
+    "word": "בִּכּוּרִים",
+    "meaning": "ראשית התבואה, היבול הראשון (פירות ראשונים ואף ספר ראשון של סופר)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12335",
+    "word": "בְּלִי מֵשִׂים",
+    "meaning": "בלי לשים לב, כבדרך אגב",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12336",
+    "word": "בִּלְתִּי נִלְאֶה",
+    "meaning": "נאמר על אדם שעושה משהו במרץ והתמדה ולא מראה סימני עייפות",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12337",
+    "word": "בִּמְבֵּם",
+    "meaning": "פיזם מנגינה ללא מילים, זמזם, המהם",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12338",
+    "word": "בְּצַוְותָּא",
+    "meaning": "ביחד, עם עוד אנשים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12339",
+    "word": "בַּר-חֲלוֹף",
+    "meaning": "זמני וחולף, עראי",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12340",
+    "word": "בְּרַם",
+    "meaning": "אולם, אבל, אך, ועם זאת",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12341",
+    "word": "גָבִין",
+    "meaning": "גַּבָּה (גבינים - גבות)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12342",
+    "word": "גַּחֲמָה",
+    "meaning": "קפריזה, שיגעון לדבר מסוים, דחף פתאומי למשהו (גחמני = קפריזי)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12343",
+    "word": "גְּלָלִים",
+    "meaning": "צואת בעלי החיים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12344",
+    "word": "גָלְמוּד",
+    "meaning": "בודד, עזוב",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12345",
+    "word": "גִנּוּנִים",
+    "meaning": "כללי התנהגות טקסית ומנומסת המקובלים בחברה כלשהי",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12346",
+    "word": "גַשְׁמִי",
+    "meaning": "שניתן לתפיסה בעזרת החושים, חומרי, מוחשי, ממשי, ארצי",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12347",
+    "word": "דָּא עָקָא",
+    "meaning": "זו הצרה, זו הבעיה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12348",
+    "word": "דָּהוּי",
+    "meaning": "שצבעו נחלש והחוויר",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12349",
+    "word": "דּוֹבְרָה",
+    "meaning": "סירה להעברת משאות, רפסודה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12350",
+    "word": "דְפוּס",
+    "meaning": "תבנית אופיינית להתנהגות אדם או תהליך שיטתי כלשהו, מודל, טיפוס",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12351",
+    "word": "דֹק",
+    "meaning": "שכבה דקה, קרום, ציפוי, כיסוי, מעטה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12352",
+    "word": "הֶאֱצִיל",
+    "meaning": "העביר סמכות לאחר, העביר תכונה לאחר",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12353",
+    "word": "הֶגְמוֹנְיָה",
+    "meaning": "שליטה, שלטון עליון, עליונות",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12354",
+    "word": "הוּדְרְכָה מְנוּחָתוֹ",
+    "meaning": "היה טרוד, משהו הפריע לו",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12355",
+    "word": "הוֹלֵך בַּתֶּלֶם",
+    "meaning": "הולך לפי המקובל, נוהג בדיוק כפי שציוו עליו",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12356",
+    "word": "הֵחִיל",
+    "meaning": "העניק תוקף לחוק או תקנה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12357",
+    "word": "הָיָה בְּעוֹכְרָיו",
+    "meaning": "הדבר היה לרעתו, הכשיל אותו",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12358",
+    "word": "הִכְפִּיף",
+    "meaning": "שם מישהו תחת מרותו של מישהו אחר",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12359",
+    "word": "הַלָּה",
+    "meaning": "ההוא, המדובר",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12360",
+    "word": "הִלִּין",
+    "meaning": "התלונן",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12361",
+    "word": "הַלְמוּת",
+    "meaning": "דפיקה בקצב קבוע, מכה, נקישה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12362",
+    "word": "הִלְעִיז",
+    "meaning": "השמיץ, פרסם שקרים הפוגעים בשמו של מישהו",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12363",
+    "word": "הִנְפִּיק",
+    "meaning": "הוציא שטרי כסף או איגרות חוב לציבור הרחב (לרוב נאמר על בנק)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12364",
+    "word": "הִנְפִּיק",
+    "meaning": "המציא ומסר לידי מישהו תעודה רשמית כלשהי",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12365",
+    "word": "הִסְתַּיֵּג",
+    "meaning": "לא הסכים עם משהו, טען נגד, דחה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12366",
+    "word": "הִשְׁלִיך יְהָבוֹ עַל",
+    "meaning": "תלה תקוותו ב-",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12367",
+    "word": "הִתְבַּדְּרוּת",
+    "meaning": "השתעשע (מהמילה בִּידוּר)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12368",
+    "word": "הִתְבַּדְּרוּת",
+    "meaning": "התפזר (שיערה התבדר ברוח)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12369",
+    "word": "הִתְחַקָּה",
+    "meaning": "עקב אחריו, ריגל",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12370",
+    "word": "הִתְחַקָּה",
+    "meaning": "ניתח ובחן, חקר",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12371",
+    "word": "הִתְלַהֵם",
+    "meaning": "התכתש, השתולל, התנהג בתוקפנות",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12372",
+    "word": "הִתְנוֹדֵד",
+    "meaning": "נע מצד לצד בחוסר יציבות",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12373",
+    "word": "הִתְנוֹפֵף",
+    "meaning": "התנועע ברוח מצד לצד",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12374",
+    "word": "הִתְקַשֵּׁט בְּנוֹצוֹת זָרִים",
+    "meaning": "התפאר בדבר מה שלא הוא עשה, או בדבר שאינו שלו",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12375",
+    "word": "זִבְדָה",
+    "meaning": "שמנת",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12376",
+    "word": "זְמָם",
+    "meaning": "מחסום ששמים בפי בהמה בכדי למנוע ממנה לאכול או לנשוך",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12377",
+    "word": "חֲגָוִים",
+    "meaning": "נקיקים, סדקים, חריצים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12378",
+    "word": "חֲוִילָה",
+    "meaning": "ווילה, קוטג'",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12379",
+    "word": "חוֹסֶה",
+    "meaning": "מי שנמצא במוסד טיפולי (בשל נכות, זקנה וכו')",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12380",
+    "word": "חִיוַּורְיָין",
+    "meaning": "מעט חיוור, לבנבן",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12381",
+    "word": "חִיל (וּרְעָדָה)",
+    "meaning": "פחד גדול, אימה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12382",
+    "word": "חַכְלִילִי",
+    "meaning": "אדמדם, אדמוני, סמוק",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12383",
+    "word": "חָמָס",
+    "meaning": "שוד, גניבה, גזל",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12384",
+    "word": "חָרוּל",
+    "meaning": "קוץ",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12385",
+    "word": "חֲרוּשׁ",
+    "meaning": "שיש בו, שיש בו סימנים של (חרוש קמטים, חרוש דאגה)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12386",
+    "word": "חֲרִיץ",
+    "meaning": "נתח, חתיכה, פרוסה (חָרִיץ גְבִינָה - חתיכת גבינה)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12387",
+    "word": "חִשּׁוּל",
+    "meaning": "חיזוק אדם מבחינה מנטאלית, חיסון, הקשחה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12388",
+    "word": "חִשּׁוּל",
+    "meaning": "עיצוב תכונות המתכת על ידי ליבונה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12389",
+    "word": "טָרוּף",
+    "meaning": "חסר שקט (שינה טרופה - שינה לא שלווה)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12390",
+    "word": "יְהָב",
+    "meaning": "תקווה, סיכוי (השליך יהבו על מישהו - תלה בו תקוות)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12391",
+    "word": "יוֹרֵד יָם",
+    "meaning": "יַמַּאי, סַפָּן, מַלָּח",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12392",
+    "word": "כּוֹחוֹ יָפֶה",
+    "meaning": "יש לו תוקף",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12393",
+    "word": "כִּיּוּר",
+    "meaning": "חריטה על הקיר לשם נוי",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12394",
+    "word": "כִּיּוּר",
+    "meaning": "עיצוב צורות מחומר רך כלשהו (פלסטלינה, חמר.. . )",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12395",
+    "word": "כִּינוּן",
+    "meaning": "הקמה, ביסוס",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12396",
+    "word": "כְּלוֹנָס",
+    "meaning": "מוט, קורה ארוכה ודקה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12397",
+    "word": "כִּמֵּת",
+    "meaning": "מלשון כמות - ביצע מדידת כמות, מדד",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12398",
+    "word": "כִּתֵּר",
+    "meaning": "הקיף מכל הצדדים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12399",
+    "word": "לְאַלְתַּר",
+    "meaning": "באופן מיידי, על המקום, תכף ומיד",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12400",
+    "word": "לִבָּה אֶת הַיְּצָרִים",
+    "meaning": "עורר סערת רגשות, הלהיט את הרוחות",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12401",
+    "word": "לִבְלוּב",
+    "meaning": "פריחת ניצנים (להיפך: קמל)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12402",
+    "word": "לִבְלוּב",
+    "meaning": "התפתחות מבטיחה של רגשות חיוביים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12403",
+    "word": "לְמֵישָׁרִין",
+    "meaning": "כמו שצריך, ללא כל בעיה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12404",
+    "word": "לְסֵרוּגִין",
+    "meaning": "פעם כך ופעם אחרת, לא באופן רציף",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12405",
+    "word": "מַבְכִּירָה",
+    "meaning": "אישה או בהמה המביאה לעולם את צאצאה הראשון (הבכור)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12406",
+    "word": "מִגְבַּעַת",
+    "meaning": "כובע רחב שוליים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12407",
+    "word": "מַדְוֶה",
+    "meaning": "כאב",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12408",
+    "word": "מַדְמֵנָה",
+    "meaning": "מזבלה, אדמה בוצית",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12409",
+    "word": "מַהֲדִיר",
+    "meaning": "מי שמוציא ספר ישן במהדורה חדשה, מי שעורך ספר לדפוס",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12410",
+    "word": "מוֹעֵד",
+    "meaning": "זמן",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12411",
+    "word": "מוֹעֵד",
+    "meaning": "חג",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12412",
+    "word": "מוֹרֶך (לֵב)",
+    "meaning": "חולשה, פחד",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12413",
+    "word": "מִזְכָּר",
+    "meaning": "מכתב קצר ולא רשמי בנוגע לעניין מסוים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12414",
+    "word": "מַחְמָל",
+    "meaning": "דבר המעורר חמלה ואהבה (מַחְמַל נַפְשׁוֹ = יקירו, אהובו)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12416",
+    "word": "מְטוּרְזָן",
+    "meaning": "הדור בלבושו, מגונדר",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12415",
+    "word": "מְטֻלָּל",
+    "meaning": "רטוב מטל",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12417",
+    "word": "מְכוּרְכָּם",
+    "meaning": "בצבע צהוב-כתום (כצבע הצמח כורכום)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12418",
+    "word": "מִלְטָשָׁה",
+    "meaning": "בית מלאכה לליטוש שיש, אבני חן וכו'",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12419",
+    "word": "מִסְדָּר",
+    "meaning": "התאחדות של אנשים על יסוד רקע משותף",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12420",
+    "word": "מַסָּה",
+    "meaning": "חיבור עיוני קצר",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12421",
+    "word": "מָש",
+    "meaning": "זז, נע",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12422",
+    "word": "מַשְׂאַת לֵב / נֶפֶש",
+    "meaning": "שאיפתו ותקוותו של אדם, חלום",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12423",
+    "word": "מִשֶּׁכְּבָר הַיָּמִים",
+    "meaning": "מלפני זמן רב",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12424",
+    "word": "מַתְמִיהַּ",
+    "meaning": "מוזר, תמוה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12425",
+    "word": "מַתְמִיהַּ",
+    "meaning": "מעורר פליאה, מדהים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12426",
+    "word": "נֶאֱלָח",
+    "meaning": "מתועב, בזוי",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12427",
+    "word": "נָגַשׂ",
+    "meaning": "דיכא, שיעבד",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12428",
+    "word": "נָגַשׂ",
+    "meaning": "דרש שהנושה (האדם שחייב כסף) יחזיר את חובו",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12429",
+    "word": "נוֹחַ לַבְּרִיּוֹת",
+    "meaning": "שקל להסתדר איתו, טוב מזג",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12430",
+    "word": "נוֹפֶך",
+    "meaning": "אחת מאבני החושן",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12431",
+    "word": "נוֹפֶך",
+    "meaning": "תוספת קלה ועדינה למשמעות או למראה של דבר מה, ניואנס",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12432",
+    "word": "ניוּאַנְס",
+    "meaning": "הבדל דק",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12433",
+    "word": "נִיחָר",
+    "meaning": "יבש, בעיקר בהקשר של גרון יבש מדיבור",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12434",
+    "word": "נִכְסָף",
+    "meaning": "דבר רצוי מאוד, שמשתוקקים אליו, נחשק",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12435",
+    "word": "נִפְרַע",
+    "meaning": "נקם (במישהו)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12436",
+    "word": "נִפְרַע",
+    "meaning": "שולם",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12437",
+    "word": "נִצַּחַת",
+    "meaning": "נחרצת, מכרעת",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12438",
+    "word": "סִדּוּר",
+    "meaning": "ספר המכיל את התפילות",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12439",
+    "word": "סָדוּר",
+    "meaning": "מסודר, מאורגן",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12440",
+    "word": "סוּרֵיאָלִיסְטִי",
+    "meaning": "לא מציאותי",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12441",
+    "word": "סָמוּך עַל שוּלְחָנוֹ",
+    "meaning": "נהנה מחסדיו, נתמך על ידו",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12442",
+    "word": "סָמַךְ יָדוֹ על (משהו)",
+    "meaning": "אישר, הסכים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12443",
+    "word": "סָר מֵרַע",
+    "meaning": "מי שנמנע מלחטוא",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12444",
+    "word": "סְרָק",
+    "meaning": "ריקנות, חוסר תועלת (רעיון סרק - רעיון בלתי מעשי)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12445",
+    "word": "עָלָה בְּקָנֶה אֶחָד",
+    "meaning": "תאם, השתלב",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12446",
+    "word": "עָמִיל",
+    "meaning": "סוכן",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12447",
+    "word": "עֲנָק",
+    "meaning": "תכשיט לצוואר, מחרוזת",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12448",
+    "word": "עַרְכָּאָה",
+    "meaning": "שם לדרגה בבית המשפט (שלום, מחוזי או עליון), שלב, רמה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12449",
+    "word": "פַּג",
+    "meaning": "תינוק שנולד לפני הזמן המיועד",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12450",
+    "word": "פָּג",
+    "meaning": "התנדף, הסתיים (פג תוקף - עבר התוקף, לא בתוקף), נעלם",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12451",
+    "word": "פּוֹרֵק עֹל",
+    "meaning": "מי שנוהג בהפקרות ואינו מקבל מרות, כללים וחוקים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12452",
+    "word": "פִּזּוּר דַּעַת / נֶפֶש",
+    "meaning": "בלבול, חוסר ריכוז",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12453",
+    "word": "פִּכָּה",
+    "meaning": "התפרץ וזרם החוצה, נבע",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12454",
+    "word": "פְּעָמָיו",
+    "meaning": "צעדיו (פַּעַם=צעד=שַׁעַל)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12455",
+    "word": "פָּרָדוֹקְס",
+    "meaning": "סתירה פנימית",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12456",
+    "word": "פְּרִישוּת",
+    "meaning": "התנזרות מתענוגות, חיי צניעות",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12457",
+    "word": "פֶּרְמָנֶנְטִי",
+    "meaning": "קבוע",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12458",
+    "word": "פָּרַף",
+    "meaning": "סגר באמצעות כפתורים או רוכסן",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12459",
+    "word": "פַּשְׁטָנִי",
+    "meaning": "שטחי ולא מעמיק, רדוד",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12460",
+    "word": "צָבָה",
+    "meaning": "תפח, התנפח",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12461",
+    "word": "צֶדַע / צְדָעַיִם / צְדָעוֹת",
+    "meaning": "רקה/רקות, כל אחד מצדי המצח ליד האוזן",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12462",
+    "word": "צוֹנֵן",
+    "meaning": "קריר, לא חם",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12463",
+    "word": "צָלַח",
+    "meaning": "הצליח",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12464",
+    "word": "צָלַח",
+    "meaning": "חצה תעלת מים או נהר",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12465",
+    "word": "צְנִיפָה",
+    "meaning": "צהלת הסוס",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12466",
+    "word": "קָבַל",
+    "meaning": "התלונן, רטן",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12467",
+    "word": "קֳבָל עַם וְעֵדָה",
+    "meaning": "בגלוי, לעיני כל",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12468",
+    "word": "קוּנְדֵּסוּת",
+    "meaning": "מעשה שובבות",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12469",
+    "word": "קִילּוּחַ",
+    "meaning": "זרם דק, טפטוף",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12470",
+    "word": "קַל דַּעַת",
+    "meaning": "נמהר, פזיז",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12471",
+    "word": "קַל תְּפִיסָה",
+    "meaning": "כינוי למי שמבין דברים במהירות",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12472",
+    "word": "קָפַח",
+    "meaning": "הכה, הלם (שמש קופחת - שמש מחממת מאוד, שמש \"מכה\")",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12473",
+    "word": "קְרֵי",
+    "meaning": "דהיינו, כלומר",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12474",
+    "word": "קָרַם עוֹר וְגִידִים",
+    "meaning": "החל להיעשות ממשי, התממש",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12475",
+    "word": "קָשִׁישׁ",
+    "meaning": "זקן מאוד, ישיש",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12476",
+    "word": "רְבָבָה",
+    "meaning": "עשרת אלפים",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12477",
+    "word": "רָמָה / עָלְתָה קַרְנוֹ",
+    "meaning": "נחל הצלחה וזכה לכבוד",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12478",
+    "word": "רִפְרֵף",
+    "meaning": "ריחף, גלש",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12479",
+    "word": "רִפְרֵף",
+    "meaning": "בחן משהו באופן שִטחי ומהיר מבלי להתעמק בו, העיף מבט",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12480",
+    "word": "שְׁאֵר בָּשָׂר",
+    "meaning": "קרוב, בן משפחה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12481",
+    "word": "שׁוּמָה",
+    "meaning": "בליטה בגוף (דומה לנקודת חן גדולה)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12482",
+    "word": "שׁוּמָה",
+    "meaning": "הערכה, אומדן (פקיד שומה - פקיד מס)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12483",
+    "word": "שְׁכִיב מְרַע",
+    "meaning": "חולה אנוש, גוסס",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12484",
+    "word": "שָׂם נַפְשוֹ בְּכַפּוֹ",
+    "meaning": "סיכן את עצמו",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12485",
+    "word": "שָׁנוּן",
+    "meaning": "חריף, פיקח",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12486",
+    "word": "שָׁנוּן",
+    "meaning": "חד, מושחז",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12487",
+    "word": "שָנַק / שִנֵק",
+    "meaning": "חנק",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12488",
+    "word": "שִׁעוּר",
+    "meaning": "גודל, מידה",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12489",
+    "word": "שִׁפּוּל",
+    "meaning": "תחתית, החלק הנמוך (שיפולי ההרים - המדרונות התחתיים)",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12490",
+    "word": "שָׁת",
+    "meaning": "שם, הניח",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12491",
+    "word": "תִּמּוּכִין",
+    "meaning": "גיבוי, חיפוי",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12492",
+    "word": "תִּמּוּכִין",
+    "meaning": "מקור מוסמך כתוב, אסמכתא",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12493",
+    "word": "תָּמִיר",
+    "meaning": "גבוה, זקוף",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12494",
+    "word": "תַּעַר",
+    "meaning": "סכין גילוח",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12495",
+    "word": "תָּפֵל",
+    "meaning": "סתמי, חסר משמעות",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12496",
+    "word": "תָּפֵל",
+    "meaning": "חסר טעם עקב מחסור בתבלינים, סר טעם",
+    "choice": "unknown",
+    "choice_mark": ""
+  },
+  {
+    "id": "w_12497",
+    "word": "תֶּקֶר",
+    "meaning": "חור בצמיג הגורם לבריחת האוויר ממנו ולהשבתת הגלגל, פנצ'ר",
+    "choice": "unknown",
+    "choice_mark": ""
+  }
+]
